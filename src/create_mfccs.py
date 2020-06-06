@@ -52,14 +52,14 @@ def to_categorical_v2(y_train, y_test):
     y_test = list(map(lambda x: lang_dict[x],y_test))
     return utils.to_categorical(y_train, len(lang_dict)), utils.to_categorical(y_test, len(lang_dict))
 
-def get_wav(language_num):
+def get_wav(file_id):
     '''
     Load wav file from disk and down-samples to RATE
-    :param language_num (list): list of file names
+    :param file_id (list): list of file names
     :return (numpy array): Down-sampled wav file
     '''
 
-    y, sr = librosa.load('../audio/{}.wav'.format(language_num))
+    y, sr = librosa.load('../audio/{}.wav'.format(file_id))
     return(librosa.core.resample(y=y,orig_sr=sr,target_sr=RATE, scale=True))
 
 def to_mfcc(wav):
@@ -107,7 +107,7 @@ if __name__ == '__main__':
 
     # Load metadata
     df = pd.read_csv(file_name)
-    df = df['language_num']
+    df = df['ID'] # changed from language_num to ID to work with DARE instead of SAA
 
     # Get resampled wav files using multiprocessing
     if DEBUG:
