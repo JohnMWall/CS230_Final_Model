@@ -58,7 +58,7 @@ def get_wav(file_id):
     :param file_id (list): list of file names
     :return (numpy array): Down-sampled wav file
     '''
-
+    print('{}.wav'.format(file_id))
     y, sr = librosa.load('../audio/{}.wav'.format(file_id))
     return(librosa.core.resample(y=y,orig_sr=sr,target_sr=RATE, scale=True))
 
