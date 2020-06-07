@@ -1,0 +1,686 @@
+href,ID,location,ethnicity,sex,age,age group,education,community type,accent
+https://search.library.wisc.edu/digital/ARAILMD4DY4ZEY9C,NC018,"['Edenton', 'North Carolina']",White,female,69,(old),college,village,South
+https://search.library.wisc.edu/digital/AFSL4JL7RFCWWZ85,NC020,"['Columbia', 'North Carolina']",White,female,75,(old),6th grade,rural,South
+https://search.library.wisc.edu/digital/AJXUS3L2SHVDC684,NC022,"['Columbia', 'North Carolina']",White,female,59,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/ARHXQHQ7HSSINM8P,NC023,"['Old Dock', 'North Carolina']",White,female,68,(old),high school,rural,South
+https://search.library.wisc.edu/digital/AKNWTZANUJW7HH8C,NC024,"['Old Dock', 'North Carolina']",White,male,51,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/AMIWA7NBXMDZ3P8H,NC025,"['Ocracoke', 'North Carolina']",White,female,53,(middle-aged),8th grade,rural,South
+https://search.library.wisc.edu/digital/AMDGFQZOHBLCOU8K,NC026,"['Ocracoke', 'North Carolina']",White,male,64,(old),6th grade,rural,South
+https://search.library.wisc.edu/digital/A4JYM2Z3QKGYNT82,NC030,"['Linville', 'North Carolina']",White,male,42,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/ARI6QQQ4HFBXC48Q,NC031,"['Spruce Pine', 'North Carolina']",White,female,58,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/AUX44IT62NZ5BB84,NC033,"['Boone', 'North Carolina']",White,male,74,(old),college,village,South
+https://search.library.wisc.edu/digital/AISWRLOJDVFOKM8A,NC034,"['Burnsville', 'North Carolina']",White,male,55,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/A52CBID4QRBSP48J,NC035,"['Pensacola', 'North Carolina']",White,male,74,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/ANZAU2LMYXMCYM8C,NC036,"['Asheville', 'North Carolina']",White,female,55,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AIWTWS2Y2ELTIV82,NC037,"['Highlands', 'North Carolina']",White,female,26,(young),high school,rural,South
+https://search.library.wisc.edu/digital/AZLG6HZ47P3GMJ85,NC038,"['Winston-Salem', 'North Carolina']",White,female,76,(old),college,large city,South
+https://search.library.wisc.edu/digital/AAA4XEQHABDFJ48T,NC039,"['Durham', 'North Carolina']",Black,female,65,(old),college,small city,South
+https://search.library.wisc.edu/digital/AE25PKUGA3TJTQ8O,NC040,"['Durham', 'North Carolina']",White,female,73,(old),6th grade,small city,South
+https://search.library.wisc.edu/digital/A4KPBQMZO6T7Z78F,NC041,"['Pinehurst', 'North Carolina']",White,male,70,(old),5th grade,village,South
+https://search.library.wisc.edu/digital/A5WCKAUWE4SZUE8S,NC046,"['Chapel Hill', 'North Carolina']",White,male,52,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AHNE34ADFR5YL383,NC047,"['Chapel Hills', 'North Carolina']",White,female,33,(young),college,small city,South
+https://search.library.wisc.edu/digital/AHAWMRQR5KWDIA8T,NC052,"['Gastonia', 'North Carolina']",White,male,70,(old),high school,small city,South
+https://search.library.wisc.edu/digital/A2X6SUVCT6G76N8N,NC053,"['Brasstown', 'North Carolina']",White,male,16,(young),8th grade,rural,South
+https://search.library.wisc.edu/digital/AYQUXEBRQSBIPC8W,NC055,"['Brasstown', 'North Carolina']",White,female,72,(old),7th grade,rural,South
+https://search.library.wisc.edu/digital/AFUYW7TSIAJOZD82,NC056,"['Kitty Hawk', 'North Carolina']",,,,,,,South
+https://search.library.wisc.edu/digital/AISVNU73SPREN48T,NC057,"['Kitty Hawk', 'North Carolina']",,,,,,,South
+https://search.library.wisc.edu/digital/AYYS7MQUHWXPQ39E,NC058,"['Roanoke Island', 'North Carolina']",,,,,,,South
+https://search.library.wisc.edu/digital/ATXAL75UZ2A6O38L,NC059,"['Roanoke Island', 'North Carolina']",,,,,,,South
+https://search.library.wisc.edu/digital/AZ537BOGVEDMIQ8Q,NC060,"['Buxton (Cape Hattaras)', 'North Carolina']",White,female,80,(old),high school,rural,South
+https://search.library.wisc.edu/digital/APLEACQB2EFZ7K8M,NC062,"['Hillsborough', 'North Carolina']",White,male,62,(old),college,village,South
+https://search.library.wisc.edu/digital/AE3CB7FYYXXV5F85,NC065,"['Hatteras', 'North Carolina']",White,male,86,(old),some schooling,rural,South
+https://search.library.wisc.edu/digital/ARIUTTPN5S6OBN87,NC066,"['Hillsborough', 'North Carolina']",Black,female,60,(old),college,village,South
+https://search.library.wisc.edu/digital/A2JAGSC7JYBMDA8C,NC068,"['Seagrove', 'North Carolina']",White,male,52,(middle-aged),7th grade,rural,South
+https://search.library.wisc.edu/digital/AHCMPMGJJM4M368S,NC071,"['Salisbury', 'North Carolina']",White,male,53,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AQCGQMKDZXDZSO8V,NC072,"['Salisbury', 'North Carolina']",White,male,65,(old),some high school,small city,South
+https://search.library.wisc.edu/digital/ACUM4MMDGKZD5D8E,NC074,"['Robbins', 'North Carolina']",White,male,30,(young),grade school,rural,South
+https://search.library.wisc.edu/digital/AKWA77LHDWDALY9C,NC076,"['Salvo-Waves-Rodanthe', 'North Carolina']",White,male,24,(young),high school,rural,South
+https://search.library.wisc.edu/digital/APRXXQHRIHTCTV9B,NC083,"['Elizabeth City', 'North Carolina']",Black,female,88,(old),some college,small city,South
+https://search.library.wisc.edu/digital/AGYVLAABQX3FL787,NC084,"['Elizabeth City', 'North Carolina']",Black,female,58,(middle-aged),9th grade,small city,South
+https://search.library.wisc.edu/digital/AD6NDYUUSPB5XJ8P,NC085,"['Elizabeth City', 'North Carolina']",Black,male,52,(middle-aged),7th grade,small city,South
+https://search.library.wisc.edu/digital/AKOIIKOO3VIKRC8E,NC086,"['Elizabeth City', 'North Carolina']",Black,female,68,(old),college with graduate work,small city,South
+https://search.library.wisc.edu/digital/AX74KJFNKVR2XN84,NC088,"['Princeville', 'North Carolina']",Black,female,60,(old),college,rural,South
+https://search.library.wisc.edu/digital/AIFUGXPPLMQNNY8K,NC089,"['Princeville', 'North Carolina']",Black,female,20,(young),college,rural,South
+https://search.library.wisc.edu/digital/AEABJH2ZRJ7VCH8Y,ND001,"['Mandan', 'North Dakota']",White,male,75,(old),8th grade,rural,North Central
+https://search.library.wisc.edu/digital/AN2O2VT6XY66ES84,ND003,"['Walhalla', 'North Dakota']",White,male,60,(old),7th grade,rural,North Central
+https://search.library.wisc.edu/digital/AKF6VAL4IB2OXF82,ND009,"['Stanley', 'North Dakota']",White,male,54,(middle-aged),some high school,village,North Central
+https://search.library.wisc.edu/digital/AFB5Z5QAXMG2DX8C,ND010,"['Stanley', 'North Dakota']",White,female,57,(middle-aged),high school,village,North Central
+https://search.library.wisc.edu/digital/AUZGTXZ52ZCTDG8C,NE001,"['Bassett', 'Nebraska']",White,male,60,(old),8th grade,village,North
+https://search.library.wisc.edu/digital/AIKPNIXRIU7AYT87,NE003,"['Aurora', 'Nebraska']",White,female,70,(old),college,village,North
+https://search.library.wisc.edu/digital/AEJ42UPIW5S6KU8H,NE006,"['Scottsbluff', 'Nebraska']",White,female,64,(old),college,small city,West
+https://search.library.wisc.edu/digital/ASZZMUY7VJNOXR8R,NE009,"['Nebraska City', 'Nebraska']",White,female,61,(old),college,village,Midland
+https://search.library.wisc.edu/digital/AH43ISQKZV4ZXR8X,NE011,"['Cambridge', 'Nebraska']",White,female,45,(middle-aged),some college,village,Midland
+https://search.library.wisc.edu/digital/AALHVVCP7HNQ268D,NH004,"['Jaffrey', 'New Hampshire']",White,male,70,(old),grade school,village,New England
+https://search.library.wisc.edu/digital/AETDBHIZCXAFNC9B,NH005,"['Lebanon', 'New Hampshire']",White,male,80,(old),high school,rural,New England
+https://search.library.wisc.edu/digital/AILHYAWITE4Y6S9B,NH006,"['Lebanon', 'New Hampshire']",White,female,68,(old),grade school,village,New England
+https://search.library.wisc.edu/digital/A6JATO5DBAHSGE8M,NH017,"['Seabrook', 'New Hampshire']",White,female,54,(middle-aged),high school,village,New England
+https://search.library.wisc.edu/digital/AZZWVSOA7G5CQU8W,NH018,"['Seabrook', 'New Hampshire']",White,male,30,(young),high school,village,New England
+https://search.library.wisc.edu/digital/ANOJUXYIMLGJKF8D,NJ001,"['Newton', 'New Jersey']",White,male,78,(old),high school,village,North
+https://search.library.wisc.edu/digital/A363GC6S6SL6ZB9D,NJ002,"['Washington', 'New Jersey']",White,female,67,(old),college,village,North
+https://search.library.wisc.edu/digital/AYAPVBUWIVKPFK86,NJ003,"['Blairstown', 'New Jersey']",White,female,72,(old),some high school,rural,North
+https://search.library.wisc.edu/digital/AIYMOMI3XFJ4FP9A,NJ004,"['Rockaway', 'New Jersey']",White,female,70,(old),high school,village,North
+https://search.library.wisc.edu/digital/AO7YDRZA24AB6F9B,NJ005,"['Montague', 'New Jersey']",White,female,60,(old),college,rural,North
+https://search.library.wisc.edu/digital/A6RTRGG76BYZ778N,NJ007,"['Montague', 'New Jersey']",White,female,71,(old),some high school,rural,North
+https://search.library.wisc.edu/digital/AL2YIARP7GDTTL84,NJ008,"['Andover', 'New Jersey']",White,male,79,(old),some college,rural,North
+https://search.library.wisc.edu/digital/A3GS5KPELVYX6I8U,NJ009,"['Long Valley', 'New Jersey']",White,female,79,(old),8th grade,village,North
+https://search.library.wisc.edu/digital/AJYOUOT5PCXM2M8R,NJ010,"['Long Valley', 'New Jersey']",White,female,38,(young),some high school,rural,North
+https://search.library.wisc.edu/digital/AWBA5QIN5FN42W8H,NJ011,"['Mendham', 'New Jersey']",White,female,72,(old),college,village,North
+https://search.library.wisc.edu/digital/AUXVATE5X6QD6T8D,NJ012,"['Mendham', 'New Jersey']",White,female,58,(middle-aged),some high school,village,North
+https://search.library.wisc.edu/digital/ALNYR5MU3Y2ZBS8I,NJ013,"['Mendham', 'New Jersey']",White,female,66,(old),college,village,North
+https://search.library.wisc.edu/digital/ATTASPDA2WZXRQ82,NJ015,"['Salem', 'New Jersey']",White,female,75,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AQNJTLQ3NOAQ4J8M,NJ017,"['Swedesboro', 'New Jersey']",White,male,72,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/A3XGXNMGKTR43G8N,NJ018,"['Swedesboro', 'New Jersey']",White,male,68,(old),some high school,village,Midland
+https://search.library.wisc.edu/digital/A75CCEW54UP5QF9C,NJ019,"['Newark', 'New Jersey']",White,female,71,(old),high school,urban,North
+https://search.library.wisc.edu/digital/AJI3NXTBU6Q23Q82,NJ020,"['Greenwich', 'New Jersey']",White,female,80,(old),some college,rural,Midland
+https://search.library.wisc.edu/digital/ARDUSAWDC2OLUG83,NJ021,"['Greenwich', 'New Jersey']",White,male,64,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/A6GIKU66MWYMWV8X,NJ022,"['Cape May Courthouse', 'New Jersey']",,,,,,,Midland
+https://search.library.wisc.edu/digital/ATDMOACL7ZG7MO8A,NJ023,"['Cape May Courthouse', 'New Jersey']",White,female,29,(young),some college,village,Midland
+https://search.library.wisc.edu/digital/AEZQIPWHVWYRON8D,NJ025,"['Carlstadt', 'New Jersey']",White,male,76,(old),grade school,village,North
+https://search.library.wisc.edu/digital/ADQ5PB2RUQEPBH8B,NJ026,"['Carlstadt', 'New Jersey']",White,female,45,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/A3VEENYT6XGXLH8Q,NJ027,"['Carlstadt', 'New Jersey']",White,male,69,(old),some high school,village,North
+https://search.library.wisc.edu/digital/AZIKDG5W3W6JVT8O,NJ028,"['Butler', 'New Jersey']",White,male,76,(old),high school,village,North
+https://search.library.wisc.edu/digital/AQ2SHFXD5AR2RC87,NJ030,"['Maplewood', 'New Jersey']",White,female,57,(middle-aged),college,small city,North
+https://search.library.wisc.edu/digital/AF2W6OM7A3EPDG8R,NJ032,"['Mays Landing', 'New Jersey']",White,female,71,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AT2KXKJDJ3WRMD8C,NJ033,"['Mays Landing', 'New Jersey']",White,male,68,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/ABIHCJWCTU5B2C8Y,NJ034,"['Mays Landing', 'New Jersey']",White,female,29,(young),high school,village,Midland
+https://search.library.wisc.edu/digital/AYL46LTG3KSUHN8O,NJ035,"['Bound Brook', 'New Jersey']",White,male,64,(old),high school,small city,North
+https://search.library.wisc.edu/digital/ARMYISFYMTEUKF9D,NJ036,"['Bound Brook', 'New Jersey']",White,male,78,(old),college,small city,North
+https://search.library.wisc.edu/digital/ALP2KKAABOWKVC82,NJ039,"['Port Republic', 'New Jersey']",White,male,64,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/ANVQRWNKJAB7YU87,NJ040,"['Port Republic', 'New Jersey']",White,female,64,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/A2ZLTEFS3AIIVV8M,NJ042,"['Ringwood', 'New Jersey']",White,female,72,(old),high school,village,North
+https://search.library.wisc.edu/digital/A6CRRHHF7UDVCY9A,NJ045,"['Flemington', 'New Jersey']",White,female,58,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/AGDUWOSQTJSADV8Z,NJ047,"['Flemington', 'New Jersey']",White,female,76,(old),some high school,rural,North
+https://search.library.wisc.edu/digital/AYOIFGN2DGU2GT8L,NJ050,"['Pennington', 'New Jersey']",White,male,79,(old),grade school,village,Midland
+https://search.library.wisc.edu/digital/AZBQ3OZYTSKDK38J,NJ051,"['Chatsworth', 'New Jersey']",White,male,77,(old),6th grade,rural,Midland
+https://search.library.wisc.edu/digital/ABGQ5T2C5A4SHY87,NJ054,"['Mt. Holly', 'New Jersey']",White,male,52,(middle-aged),college,small city,Midland
+https://search.library.wisc.edu/digital/ABJNNRCT6DJOPU9B,NJ055,"['Barnegat', 'New Jersey']",White,male,72,(old),college,rural,Midland
+https://search.library.wisc.edu/digital/AN5SP2K7UX53FY87,NJ060,"['Glassboro', 'New Jersey']",White,male,58,(middle-aged),8th grade,small city,Midland
+https://search.library.wisc.edu/digital/AEQCEJYC5UKRSE8H,NJ062,"['Glassboro', 'New Jersey']",,,,,,,Midland
+https://search.library.wisc.edu/digital/ACJV6LLS6H7TN585,NJ064,"['Chatham Township', 'New Jersey']",White,male,82,(old),some high school,village,North
+https://search.library.wisc.edu/digital/AUDLM3U2RBBTFU8H,NJ065,"['Madison', 'New Jersey']",White,male,85,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AV5K7BTQZJTIO78D,NJ067,"['Asbury Park', 'New Jersey']",Black,female,72,(old),8th grade,small city,Midland
+https://search.library.wisc.edu/digital/ACLQERSVCV4KAN8I,NJ068,"['Asbury Park', 'New Jersey']",Black,female,61,(old),6th grade,small city,Midland
+https://search.library.wisc.edu/digital/AZU2P67XLIT6VZ9B,NJ069,"['Trenton', 'New Jersey']",Black,male,64,(old),grade school,large city,Midland
+https://search.library.wisc.edu/digital/A5FUXW5EUB5P7Q8F,NJ070,"['Trenton', 'New Jersey']",Black,male,46,(middle-aged),college,large city,Midland
+https://search.library.wisc.edu/digital/A65HEN2CHN4NYN8H,NM002,"['Roswell', 'New Mexico']",White,female,81,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/AKHLIVPVUEG4IZ8K,NM003,"['Roswell', 'New Mexico']",White,male,71,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/ATVLCRRGMLYV5U8O,NM005,"['Las Vegas', 'New Mexico']",White,female,70,(old),high school,small city,West
+https://search.library.wisc.edu/digital/APEJIS2HKNL66D8H,NM006,"['Las Vegas', 'New Mexico']",White,male,74,(old),grade school,small city,West
+https://search.library.wisc.edu/digital/A3XSP2VW7PZTCR8T,NM007,"['Las Vegas', 'New Mexico']",White,female,72,(old),high school,small city,West
+https://search.library.wisc.edu/digital/AR2EGRIUTKDPNY8Z,NM008,"['Kirtland', 'New Mexico']",White,female,67,(old),grade school,rural,West
+https://search.library.wisc.edu/digital/A7KZEV5TZ364G28R,NM009,"['Kirtland', 'New Mexico']",White,female,65,(old),grade school,rural,West
+https://search.library.wisc.edu/digital/A7HM534AIUURGP85,NM012,"['Silver City', 'New Mexico']",White,female,86,(old),high school,village,West
+https://search.library.wisc.edu/digital/AI47TZSULJAT4C8O,NM015,"['Silver City', 'New Mexico']",White,male,63,(old),college,village,West
+https://search.library.wisc.edu/digital/ASIBQTYGL63OSR8K,NV008,"['Carson City', 'Nevada']",White,male,83,(old),grade school,rural,West
+https://search.library.wisc.edu/digital/AZVJ4RCHAMWV6N9C,NY002,"['Gloversville', 'New York']",White,male,73,(old),grade school,small city,North
+https://search.library.wisc.edu/digital/ADK7PQZVTMAX6E9D,NY004,"['Old Forge', 'New York']",White,male,78,(old),high school,rural,North
+https://search.library.wisc.edu/digital/A65ORB7QO4SKRV8E,NY007,"['Old Forge', 'New York']",White,female,22,(young),college,rural,North
+https://search.library.wisc.edu/digital/AJZS7TE2ULG7WG8X,NY025,"['Plattsburgh', 'New York']",White,female,38,(young),college,small city,New England
+https://search.library.wisc.edu/digital/AAMPCGTZCABRKH8G,NY026,"['Plattsburgh', 'New York']",White,male,53,(middle-aged),high school,rural,New England
+https://search.library.wisc.edu/digital/AABWW5PUZRNLND9D,NY027,"['Chateaugay', 'New York']",White,male,71,(old),grade school,rural,New England
+https://search.library.wisc.edu/digital/AHT5LDTMKGKZFI82,NY028,"['Chateaugay', 'New York']",White,female,48,(middle-aged),high school,rural,New England
+https://search.library.wisc.edu/digital/AQEPQZLML4BABM8B,NY030,"['Potsdam', 'New York']",White,female,68,(old),college,village,North
+https://search.library.wisc.edu/digital/ADBXASEJ4SXM2P82,NY032,"['Potsdam', 'New York']",White,male,80,(old),some schooling,rural,North
+https://search.library.wisc.edu/digital/A7F5RPQRV5NJIH9E,NY034,"['Brooklyn', 'New York']",White,female,63,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/ARIZOL3R4NHGP48E,NY035,"['Brooklyn', 'New York']",White,female,63,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AXOUEWSHZBREZU8I,NY036,"['Brooklyn', 'New York']",White,male,64,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AYBHJ3E4LFMW728P,NY037,"['Brooklyn', 'New York']",White,male,69,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AJMI355HDRAYYP8O,NY038,"['Brooklyn', 'New York']",White,female,60,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/ABA5JOYS5AVVNL86,NY039,"['Brooklyn', 'New York']",White,female,57,(middle-aged),grade school,urban,New York City
+https://search.library.wisc.edu/digital/AU3SEOFMW6JJL283,NY040,"['Brooklyn', 'New York']",White,male,49,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/ACVXBTA3S65KH49D,NY041,"['Brooklyn', 'New York']",White,female,70,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/A6CIPAFUBBO2VL8Q,NY042,"['Brooklyn', 'New York']",White,male,65,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/AZ2OF7YXLAORRL85,NY043,"['Brooklyn', 'New York']",White,female,91,(old),grade school,urban,New York City
+https://search.library.wisc.edu/digital/ACVL256HUFGLAW8G,NY044,"['Brooklyn', 'New York']",White,male,56,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/AIFK3WNGEKU2VF8Q,NY045,"['Brooklyn', 'New York']",White,female,70,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/AASOFQHZHCET4P84,NY046,"['Brooklyn', 'New York']",White,female,50,(middle-aged),college,urban,New York City
+https://search.library.wisc.edu/digital/A5FLJELKNQJJC38D,NY048,"['Brooklyn', 'New York']",White,female,68,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/AQLUGRUW3RJTW28M,NY049,"['Brooklyn', 'New York']",White,female,66,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AI6662CLWOCYA384,NY051,"['Brooklyn', 'New York']",White,female,57,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/AIU2HEX7WZFVG78V,NY052,"['Goshen', 'New York']",White,male,73,(old),college,rural,North
+https://search.library.wisc.edu/digital/ASWGLUVBM356WD84,NY053,"['Queens', 'New York']",White,female,82,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AGMO3RT2JV2YGM8U,NY054,"['Queens', 'New York']",White,female,68,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AAM4VGYEHUNX2M8B,NY055,"['Queens', 'New York']",Black,female,48,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/AEIIJBLXQPUPX58C,NY057,"['Brooklyn', 'New York']",White,male,76,(old),some schooling,urban,New York City
+https://search.library.wisc.edu/digital/AVXKW3UFG3NVF68X,NY059,"['Tarrytown', 'New York']",White,male,68,(old),high school,small city,North
+https://search.library.wisc.edu/digital/A3476OH3F4UR3D8L,NY060,"['Queens', 'New York']",White,female,69,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/AQYN33EH2QRLD48T,NY061,"['Queens', 'New York']",Black,female,84,(old),grade school,urban,New York City
+https://search.library.wisc.edu/digital/A6Q4RZBI5TUBHE8E,NY064,"['Queens', 'New York']",White,female,44,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/AWMYTZGCMB2LRS9D,NY066,"['North Tarrytown', 'New York']",White,male,78,(old),high school,small city,North
+https://search.library.wisc.edu/digital/ADEE3UZ3KBIOXD8Y,NY067,"['Manhattan', 'New York']",White,female,50,(middle-aged),college,urban,New York City
+https://search.library.wisc.edu/digital/AIXKWVHH6AKO428T,NY068,"['Granville', 'New York']",White,male,80,(old),grade school,rural,New England
+https://search.library.wisc.edu/digital/ALUOADVYSSYKSS84,NY069,"['White Sulphur Springs', 'New York']",White,female,72,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/AL77RGORNBXHHM8R,NY071,"['Valatie', 'New York']",White,male,80,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AWZTW3INOS7MTK8L,NY073,"['Roxbury', 'New York']",White,male,80,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/AWNC2ZPHFKEKFI8P,NY075,"['Oxford', 'New York']",White,male,71,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/ARUNLLYV3UDALH8Z,NY078,"['Corona', 'New York']",White,female,57,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/A3ITOSZYT7IAON8G,NY079,"['Corona', 'New York']",White,male,64,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AZ5EX67U2TIETU82,NY080,"['Newburgh', 'New York']",White,male,56,(middle-aged),high school,small city,North
+https://search.library.wisc.edu/digital/AHR4KGTAUPLJBN9A,NY081,"['Manhattan', 'New York']",White,male,20,(young),college,urban,New York City
+https://search.library.wisc.edu/digital/AXXGVBYB3LOJT68T,NY082,"['Saugerties', 'New York']",White,male,64,(old),grade school,village,North
+https://search.library.wisc.edu/digital/AVDLKQOA444IJQ8S,NY085,"['Millerton', 'New York']",White,male,52,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/AFRORKFYJAONYW87,NY087,"['Kingston', 'New York']",White,male,50,(middle-aged),high school,small city,North
+https://search.library.wisc.edu/digital/APGWO27KDA7CKW8C,NY088,"['Warrensburg', 'New York']",White,female,52,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/AK2DMLXCPF7SVL8Z,NY089,"['Queens', 'New York']",White,female,29,(young),high school,urban,New York City
+https://search.library.wisc.edu/digital/ASNGS7R5PMUSAY8P,NY090,"['Queens', 'New York']",White,female,75,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AH3N4VPXAJ7UCB9A,NY092,"['Lake Pleasant', 'New York']",White,male,56,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/AAH45MJTHHISE28X,NY093,"['Windsor', 'New York']",White,male,54,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/ABMADTW47UF6VF87,NY094,"['Windsor', 'New York']",White,female,43,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/ARTJIS5OWBFXG28F,NY096,"['Boonville', 'New York']",White,male,74,(old),grade school,village,North
+https://search.library.wisc.edu/digital/AT25F7TWGE7ZM78E,NY099,"['Fredonia', 'New York']",White,female,70,(old),college,small city,North
+https://search.library.wisc.edu/digital/A3PL4Y4XGWTNWW8E,NY100,"['Fredonia', 'New York']",White,female,71,(old),college,small city,North
+https://search.library.wisc.edu/digital/ADMSBZOFH2KVVU8T,NY101,"['Fredonia', 'New York']",White,male,76,(old),grade school,small city,North
+https://search.library.wisc.edu/digital/AJT6OEBHVQHSD785,NY103,"['Ripley', 'New York']",White,male,82,(old),college,village,North
+https://search.library.wisc.edu/digital/AKMWAH7JD6OPCD8K,NY104,"['Ripley', 'New York']",White,female,79,(old),high school,village,North
+https://search.library.wisc.edu/digital/AODB2GAIWZIU7V8F,NY105,"['Gowanda', 'New York']",White,female,79,(old),high school,village,North
+https://search.library.wisc.edu/digital/AO2H5HY46VRAEV8S,NY106,"['Gowanda', 'New York']",White,female,75,(old),high school,village,North
+https://search.library.wisc.edu/digital/A6TRBTQCZBH5G38R,NY107,"['Geneseo', 'New York']",White,female,73,(old),college,village,North
+https://search.library.wisc.edu/digital/AWGZQO3VEFF5DH8P,NY108,"['Geneseo', 'New York']",White,female,74,(old),high school,village,North
+https://search.library.wisc.edu/digital/AC2N5XQ3KYYGZD9B,NY109,"['Seneca Falls', 'New York']",White,male,34,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/ATCWWN6TNZZRMD8Y,NY111,"['Montour Falls', 'New York']",White,female,60,(old),high school,village,North
+https://search.library.wisc.edu/digital/A2HRZDEKNLKD6I83,NY113,"['Montour Falls', 'New York']",White,female,72,(old),high school,village,North
+https://search.library.wisc.edu/digital/AWM5QC72RX3OOJ9E,NY114,"['Wayland', 'New York']",White,male,37,(young),grade school,village,North
+https://search.library.wisc.edu/digital/AMXYJTEOJUJTOS8E,NY115,"['Wayland', 'New York']",White,female,76,(old),high school,village,North
+https://search.library.wisc.edu/digital/AWT2GV2YA6YVAO9C,NY116,"['Wayland', 'New York']",White,female,75,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/AB67CJHF2J4JWU9B,NY118,"['Bronx', 'New York']",White,male,27,(young),college,urban,New York City
+https://search.library.wisc.edu/digital/AHLE34Y6NNBUTW8R,NY120,"['Skaneateles', 'New York']",White,female,64,(old),college,village,North
+https://search.library.wisc.edu/digital/AI5XKU64FRS6PJ8X,NY121,"['Skaneateles', 'New York']",White,female,40,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/ARSWYISHW2Q2T28V,NY122,"['Skaneateles', 'New York']",White,male,44,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/AC3AT3TW566EL28B,NY123,"['Owego', 'New York']",White,female,52,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/AGS5UIHH67COMX9B,NY124,"['Brooklyn', 'New York']",White,male,48,(middle-aged),college,urban,New York City
+https://search.library.wisc.edu/digital/AN2KUWYKYBBMWT8V,NY126,"['Schoharie', 'New York']",White,female,67,(old),high school,village,North
+https://search.library.wisc.edu/digital/AUB52EQG72MI7B8D,NY129,"['Buffalo', 'New York']",,,,,,,North
+https://search.library.wisc.edu/digital/AHMYSS24VPNWH683,NY131,"['Buffalo', 'New York']",,,,,,,North
+https://search.library.wisc.edu/digital/AXUNSM2HHF72S28Z,NY139,"['Wellsville', 'New York']",White,female,81,(old),college,village,North
+https://search.library.wisc.edu/digital/AZFIXLZFX5S7YV87,NY141,"['Fayetteville', 'New York']",White,female,58,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/ADJBOSKMXMJS4V8X,NY144,"['Fayetteville', 'New York']",White,female,39,(young),college,village,North
+https://search.library.wisc.edu/digital/AN4IB55SKZC6UZ8X,NY150,"['Oswego', 'New York']",White,male,72,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/AHR22ARNQRAQ4A8Z,NY153,"['Palmyra', 'New York']",White,female,79,(old),grade school,village,North
+https://search.library.wisc.edu/digital/AJVTGPMNLD2ORX9B,NY159,"['Homer', 'New York']",White,male,79,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/A5LQ3LUZIIP7CE8C,NY163,"['Albion', 'New York']",White,male,71,(old),high school,rural,North
+https://search.library.wisc.edu/digital/A4JHNURN5YMYQQ8Q,NY167,"['Syracuse', 'New York']",White,female,58,(middle-aged),college,large city,North
+https://search.library.wisc.edu/digital/AN2MUD5NYWPKGB8M,NY168,"['Syracuse', 'New York']",White,female,46,(middle-aged),college,large city,North
+https://search.library.wisc.edu/digital/AIWLRHSTSA3IIC8R,NY173,"['Yorkville', 'New York']",White,female,78,(old),high school,village,New York City
+https://search.library.wisc.edu/digital/AU7MWXGXN2GPXT8N,NY175,"['Yorkville', 'New York']",White,female,41,(middle-aged),high school,village,New York City
+https://search.library.wisc.edu/digital/AZN7PYPHSNXXR68Z,NY178,"['Orleans', 'New York']",White,male,80,(old),high school,village,North
+https://search.library.wisc.edu/digital/AS4S4ININXZVMY9C,NY183,"['Salamanca', 'New York']",White,male,54,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/AKGH5ZURY6RE3E8V,NY184,"['Salamanca', 'New York']",White,female,39,(young),high school,village,North
+https://search.library.wisc.edu/digital/AN7WJSWSJRQRC687,NY186,"['Oneonta', 'New York']",White,female,37,(young),college,small city,North
+https://search.library.wisc.edu/digital/A6FLKD6X2BQ6YK8D,NY190,"['Cooperstown', 'New York']",White,female,63,(old),college,village,North
+https://search.library.wisc.edu/digital/APJXBX7UY5HODA8C,NY194,"['Canajoharie', 'New York']",White,female,77,(old),college,village,North
+https://search.library.wisc.edu/digital/AF6G2KK2D5N3H39D,NY195,"['Canajoharie', 'New York']",White,female,79,(old),high school,village,North
+https://search.library.wisc.edu/digital/AYCIXNSVAKPKXS85,NY199,"['Little Falls', 'New York']",White,female,67,(old),college,village,North
+https://search.library.wisc.edu/digital/AJXUDXGXGH2PF58G,NY200,"['Hamilton', 'New York']",,,,,,,North
+https://search.library.wisc.edu/digital/AAWQ66RG7V75AA8S,NY202,"['Hamilton', 'New York']",White,male,60,(old),college,village,North
+https://search.library.wisc.edu/digital/AC6BB7EEDQV33I8K,NY203,"['Little Falls', 'New York']",White,male,65,(old),high school,village,North
+https://search.library.wisc.edu/digital/AGI2G6AYRXUJR38L,NY204,"['Binghamton', 'New York']",,,,,,,North
+https://search.library.wisc.edu/digital/AIPDVHW3HCMLK786,NY205,"['Saratoga Springs', 'New York']",White,male,78,(old),high school,village,North
+https://search.library.wisc.edu/digital/AFNIDEOFK2G2RI83,NY208,"['Monroe', 'New York']",,,,,,,North
+https://search.library.wisc.edu/digital/A5M6ONAIPV7UYQ83,NY211,"['Newburgh', 'New York']",White,male,64,(old),college,small city,North
+https://search.library.wisc.edu/digital/AUVL5GGABJM4XT8W,NY215,"['Jamestown', 'New York']",White,male,65,(old),grade school,small city,North
+https://search.library.wisc.edu/digital/ARA2DI77VNRJ7H8N,NY219,"['Speculator', 'New York']",White,male,73,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/AFXIKBPVIIQXIC85,NY220,"['Voorheesville', 'New York']",White,female,75,(old),high school,village,North
+https://search.library.wisc.edu/digital/AEAYCNFDJYXCPF8X,NY223,"['Bath', 'New York']",White,female,76,(old),high school,village,North
+https://search.library.wisc.edu/digital/AO73E2LKYTDMEO8K,NY225,"['Jamestown', 'New York']",White,male,31,(young),college,small city,North
+https://search.library.wisc.edu/digital/ADZ6YN2BQNW5PI8S,NY226,"['Alden', 'New York']",White,male,82,(old),college,village,North
+https://search.library.wisc.edu/digital/AVXTQJLTOGR5VB8U,NY232,"['Arcade', 'New York']",White,female,80,(old),high school,village,North
+https://search.library.wisc.edu/digital/AJQLKHIL2MLZPN85,NY234,"['Whitney Point', 'New York']",White,female,50,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/A6ATVSMXZJDRSG84,NY236,"['Manhattan', 'New York']",Black,female,33,(young),high school,urban,New York City
+https://search.library.wisc.edu/digital/A6R3RRHCUSNSXU8X,NY242,"['New York City', 'New York']",,,,,,,New York City
+https://search.library.wisc.edu/digital/AZUJGEQDUOBK4S8I,NY245,"['Brooklyn', 'New York']",White,male,78,(old),high school,urban,New York City
+https://search.library.wisc.edu/digital/AXIJOEQFNQ2XHL8D,NY246,"['Manhattan', 'New York']",White,female,72,(old),college,urban,New York City
+https://search.library.wisc.edu/digital/ASKIHV474QGS4T8N,NY247,"['Brooklyn', 'New York']",White,male,42,(middle-aged),high school,urban,New York City
+https://search.library.wisc.edu/digital/AYE3CKWZWNC55H9A,OH001,"['Chagrin Falls', 'Ohio']",White,female,69,(old),college,small city,North
+https://search.library.wisc.edu/digital/A4FBZOJNXJOVET85,OH008,"['Burton', 'Ohio']",White,female,77,(old),high school,village,North
+https://search.library.wisc.edu/digital/AAU5YQSF46I4T49B,OH017,"['Leroy', 'Ohio']",White,female,78,(old),high school,rural,North
+https://search.library.wisc.edu/digital/ADSD2Y64MMWDZV8N,OH018,"['Leroy', 'Ohio']",White,female,78,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AD2B4UTOVQZ6IY8G,OH020,"['Wellington', 'Ohio']",White,male,47,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/AXPEATNWBOYU4U84,OH021,"['Wellington', 'Ohio']",White,female,46,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/ANW7NMDS33F77D8C,OH022,"['Custar', 'Ohio']",White,male,61,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AVV5DI3QYGRLVC9B,OH023,"['Bowling Green', 'Ohio']",White,female,75,(old),high school,small city,North
+https://search.library.wisc.edu/digital/A6RBVWUX6QCYLZ8C,OH024,"['Bowling Green', 'Ohio']",White,female,71,(old),some college,small city,North
+https://search.library.wisc.edu/digital/AUW2IVOKPELO3K8M,OH028,"['Norwalk', 'Ohio']",White,female,77,(old),high school,small city,North
+https://search.library.wisc.edu/digital/AOMFKICIM6RELN8J,OH029,"['Norwalk', 'Ohio']",White,female,77,(old),high school,small city,North
+https://search.library.wisc.edu/digital/ACW66W6PAFRRCH8V,OH031,"['Circleville', 'Ohio']",White,female,65,(old),some college,rural,Midland
+https://search.library.wisc.edu/digital/A63DRK2YFVVJZD8G,OH032,"['Circleville', 'Ohio']",White,male,65,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/APZKYIKUBYHXAI8J,OH033,"['Circleville', 'Ohio']",White,male,55,(middle-aged),high school,small city,Midland
+https://search.library.wisc.edu/digital/A2PIQOYWBZ6UTG8R,OH034,"['Chillicothe', 'Ohio']",White,male,61,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/A24CTDSUQ7JJ4X86,OH036,"['Chillicothe', 'Ohio']",White,male,64,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/AEQ5OFGFI6CUMR86,OH037,"['Chillicothe', 'Ohio']",White,female,61,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/AU2NOVKZKD6ZHG8T,OH038,"['Wellston', 'Ohio']",White,female,72,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/ACJSLEF5O2ZD4V8S,OH039,"['Long Bottom', 'Ohio']",White,female,35,(young),6th grade,rural,Midland
+https://search.library.wisc.edu/digital/ARA2ZL4REV2ILX8U,OH040,"['Long Bottom', 'Ohio']",White,female,18,(young),high school,rural,Midland
+https://search.library.wisc.edu/digital/ARHJG4NKDW2LIV8K,OH041,"['McConnelsville', 'Ohio']",White,female,78,(old),some high school,village,Midland
+https://search.library.wisc.edu/digital/A7JZ2ORLUBAP5G8Q,OH042,"['Marietta', 'Ohio']",White,male,71,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/AMLQUMIWUSMVBG8D,OH043,"['Marietta', 'Ohio']",White,male,30,(young),college,small city,Midland
+https://search.library.wisc.edu/digital/AJWYFIDKWBUBIZ8R,OH044,"['Clarington', 'Ohio']",White,male,64,(old),college,rural,Midland
+https://search.library.wisc.edu/digital/AXYTL2SZAJWAZE8R,OH045,"['Gallipolis', 'Ohio']",White,female,53,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/ANVYDXYEIICNS78M,OH046,"['Gallipolis', 'Ohio']",White,female,21,(young),high school,village,Midland
+https://search.library.wisc.edu/digital/AT7CX6KMJJDDAH8D,OH047,"['The Plains', 'Ohio']",White,male,48,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/A5UREBZMPPMAAW8A,OH048,"['Somerset', 'Ohio']",White,female,64,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/A57RS2J34UBHKH87,OH049,"['Ironton', 'Ohio']",White,female,65,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/AMOLJUKWGV74OU8E,OH050,"['Ironton', 'Ohio']",White,male,66,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/ADFF2OVGZKWLPX8A,OH051,"['Peebles', 'Ohio']",White,female,60,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/AZ65TJZRL4RXLR8N,OH052,"['Peebles', 'Ohio']",White,female,44,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/A3D4KGDHR654XN8B,OH054,"['Oxford', 'Ohio']",White,male,84,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/ALRWAWF7T5O3G282,OH055,"['Oxford', 'Ohio']",White,female,67,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/ATJT4Q3QABEPLC8H,OH057,"['Ripley', 'Ohio']",White,female,68,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/A4JLPX7JAHJ4SK8P,OH058,"['Ripley', 'Ohio']",White,male,71,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/ADIIBDBI2BGX448W,OH059,"['Georgetown', 'Ohio']",White,female,69,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/A4WTA4FW2ARQRO8Y,OH060,"['Georgetown', 'Ohio']",White,female,68,(old),some college,rural,Midland
+https://search.library.wisc.edu/digital/AB5URYGTRVMUMZ8T,OH061,"['Leesburg', 'Ohio']",White,female,62,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/AY3XEFRVW52IQO8F,OH063,"['Lebanon', 'Ohio']",White,female,59,(old),college,village,Midland
+https://search.library.wisc.edu/digital/AJNLM33VPFUTTQ8Q,OH064,"['Lebanon', 'Ohio']",White,male,79,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/A3F7TG44XIRAUA8I,OH065,"['Cambridge', 'Ohio']",White,female,60,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/A4MU7SLN77655P82,OH066,"['Salem', 'Ohio']",White,female,73,(old),some high school,small city,North
+https://search.library.wisc.edu/digital/ASH4TI67XNRNNH8K,OH068,"['Port Clinton', 'Ohio']",White,male,67,(old),college,village,North
+https://search.library.wisc.edu/digital/AKTCZOKTSTRLZF8T,OH069,"['Bryan', 'Ohio']",White,female,61,(old),high school,rural,North
+https://search.library.wisc.edu/digital/ABLETGSLALIQRB8K,OH070,"['Bryan', 'Ohio']",White,male,62,(old),high school,village,North
+https://search.library.wisc.edu/digital/AJMZIDNVAT3BZM86,OH071,"['East Liverpool', 'Ohio']",White,male,80,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/A3HQKK5FD44GZ48J,OH072,"['Bellville', 'Ohio']",White,female,83,(old),high school,village,North
+https://search.library.wisc.edu/digital/AG25V4PXMIHMDA83,OH073,"['Bellville', 'Ohio']",White,male,83,(old),some college,village,North
+https://search.library.wisc.edu/digital/AFEVJIQJ4AA7LP8T,OH074,"['Mount Vernon', 'Ohio']",White,male,76,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/A6ALOKZOPSCCEU8N,OH075,"['Mount Vernon', 'Ohio']",White,female,69,(old),some college,small city,Midland
+https://search.library.wisc.edu/digital/AXCEKUETY6TOW28F,OH076,"['Cheviot', 'Ohio']",White,male,49,(middle-aged),high school,urban,Midland
+https://search.library.wisc.edu/digital/AY2P342DEY4V4A8N,OH078,"['Mount Pleasant', 'Ohio']",White,female,73,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/A347YHLTMFBUKD8A,OH079,"['New Philadelphia', 'Ohio']",White,male,71,(old),7th grade,small city,Midland
+https://search.library.wisc.edu/digital/AI5TQU7DMMHRIQ8B,OH080,"['Dover', 'Ohio']",White,male,81,(old),some high school,small city,Midland
+https://search.library.wisc.edu/digital/AZGDPJ3TYVFESL8W,OH081,"['Berlin', 'Ohio']",White,male,75,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/AH6IS7ROSET2LJ8R,OH082,"['Millersburg', 'Ohio']",White,male,61,(old),college,village,Midland
+https://search.library.wisc.edu/digital/A4ANYU6PMZ4Z3M8R,OH084,"['Greenville', 'Ohio']",White,female,34,(young),college,small city,Midland
+https://search.library.wisc.edu/digital/AFIL4HECGT46CX8W,OH085,"['Greenville', 'Ohio']",White,female,64,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/AS7J3HTDY6BT4K8P,OH087,"['Delaware', 'Ohio']",White,female,56,(middle-aged),high school,rural,Midland
+https://search.library.wisc.edu/digital/AOSAXFQVJLSSRU8R,OH088,"['Upper Sandusky', 'Ohio']",White,female,54,(middle-aged),some high school,rural,North
+https://search.library.wisc.edu/digital/AWXZSNTSMSDZPH8W,OH089,"['Delphos', 'Ohio']",White,male,75,(old),8th grade,village,North
+https://search.library.wisc.edu/digital/AURTAEMCZ3RDZN8A,OH090,"['Granville', 'Ohio']",White,female,48,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AQGNEMJBS5SLAJ84,OH091,"['Dayton', 'Ohio']",White,female,22,(young),high school,large city,Midland
+https://search.library.wisc.edu/digital/AFPLI3BU5GAZEQ8O,OH093,"['Dayton', 'Ohio']",White,female,72,(old),college,large city,Midland
+https://search.library.wisc.edu/digital/AXR5ZSJYYQ47UU8P,OH094,"['Dayton', 'Ohio']",White,female,48,(middle-aged),college with graduate work,large city,Midland
+https://search.library.wisc.edu/digital/AOBYKXIQBFR2MD8W,OH095,"['Urbana', 'Ohio']",White,male,70,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/A2PSSCXQFLGV2B8N,OH096,"['Urbana', 'Ohio']",White,female,87,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/AARPKZE2ACPFAM8P,OH098,"['Columbus', 'Ohio']",White,female,63,(old),college,large city,Midland
+https://search.library.wisc.edu/digital/AEB5GZZAQ6B2VK8Z,OH100,"['Columbus', 'Ohio']",White,female,16,(young),high school,large city,Midland
+https://search.library.wisc.edu/digital/AJH3NXM46ZWQU58T,OH102,"['Cincinnati', 'Ohio']",Black,female,35,(young),high school,urban,Midland
+https://search.library.wisc.edu/digital/AY4C4FNB7BMXAZ8F,OH103,"['Cincinnati', 'Ohio']",Black,male,17,(young),some high school,urban,Midland
+https://search.library.wisc.edu/digital/A3HXW2QAGMXOVW8W,OK019,"['Fairview', 'Oklahoma']",White,female,62,(old),grade school,rural,Midland
+https://search.library.wisc.edu/digital/AJH6JE7W4JKTOR9A,OK022,"['Broken Bow', 'Oklahoma']",American Indian,female,70,(old),high school,village,South
+https://search.library.wisc.edu/digital/A66NAAPBXSSWPV8E,OK023,"['Broken Bow', 'Oklahoma']",White,male,66,(old),high school,village,South
+https://search.library.wisc.edu/digital/AT6C7A7IQ7K5UR9E,OK027,"['Frederick', 'Oklahoma']",White,male,39,(young),high school,village,South
+https://search.library.wisc.edu/digital/ANMTS7P5YJ6EYW85,OK029,"['Guymon', 'Oklahoma']",White,male,46,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/AKEV4NHPLRJ7N58T,OK031,"['Guymon', 'Oklahoma']",White,female,54,(middle-aged),grade school,village,South
+https://search.library.wisc.edu/digital/A6CJZ7JYVWMLZS8O,OK032,"['Guymon', 'Oklahoma']",White,female,66,(old),college,village,South
+https://search.library.wisc.edu/digital/ANTYYP6ZHIFATC8I,OK042,"['Canadian', 'Oklahoma']",White,male,60,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/AGEJZCLXZ4BKCK87,OK051,"['McAlester', 'Oklahoma']",White,male,73,(old),high school,rural,South
+https://search.library.wisc.edu/digital/AJDHFQC2P3SSFS9B,OK052,"['McAlester', 'Oklahoma']",White,male,62,(old),some schooling,village,South
+https://search.library.wisc.edu/digital/AL2GBEM3E3ZID39C,OK054,"['Taft', 'Oklahoma']",Black,male,23,(young),college,rural,South
+https://search.library.wisc.edu/digital/AVAXLQ7RLN7LIT8S,OK055,"['Taft', 'Oklahoma']",Black,male,55,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/ABAS7CHPHXGJ2L85,OK056,"['Muskogee', 'Oklahoma']",Black,female,42,(middle-aged),high school,small city,South
+https://search.library.wisc.edu/digital/ADQ7HQI3QVVEN39C,OK057,"['Muskogee', 'Oklahoma']",Black,male,37,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/A4VG465RRRFSCZ8M,OR001,"['Bend', 'Oregon']",White,female,49,(middle-aged),high school,small city,West
+https://search.library.wisc.edu/digital/A3VP7N7BW7CS6Z8E,OR002,"['Jacksonville', 'Oregon']",White,male,74,(old),8th grade,village,West
+https://search.library.wisc.edu/digital/AYVQD4ZERO2YJJ8M,OR003,"['Jacksonville', 'Oregon']",White,male,84,(old),8th grade,village,West
+https://search.library.wisc.edu/digital/AMMXZ6M2MW2U5L8Y,OR006,"['Junction City', 'Oregon']",White,female,67,(old),grade school,village,West
+https://search.library.wisc.edu/digital/ATFGRVSLQ34JD48B,OR011,"['Jordan Valley', 'Oregon']",White,male,75,(old),some schooling,rural,West
+https://search.library.wisc.edu/digital/AMA2YBSQESEFDR9A,OR013,"['Burns', 'Oregon']",White,male,75,(old),college,village,West
+https://search.library.wisc.edu/digital/AMKMUY65IQCDMX8X,OR015,"['Pendleton', 'Oregon']",White,male,58,(middle-aged),college,small city,West
+https://search.library.wisc.edu/digital/AFCOWLKRM7GRVB8C,OR018,"['Jordan Valley', 'Oregon']",,,,,,,West
+https://search.library.wisc.edu/digital/AZQHKABHALFXWD83,PA002,"['Lititz', 'Pennsylvania']",White,female,52,(middle-aged),some college,village,Midland
+https://search.library.wisc.edu/digital/AAPM22RSQQMADL82,PA003,"['Lititz', 'Pennsylvania']",White,male,73,(old),college,village,Midland
+https://search.library.wisc.edu/digital/AXUSQ4ZZFAROHV9D,PA004,"['Lititz', 'Pennsylvania']",White,female,69,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/AXEKOIL7INL6PY9E,PA005,"['Paradise', 'Pennsylvania']",White,female,73,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/AJCL7LDJ4JRZSL8J,PA007,"['Paradise', 'Pennsylvania']",White,female,55,(middle-aged),college,rural,Midland
+https://search.library.wisc.edu/digital/AFE37ABRGKFQ2T8I,PA009,"['Lancaster', 'Pennsylvania']",,,,,,,Midland
+https://search.library.wisc.edu/digital/AF5PRN5U2LFHVO8R,PA011,"['Millersville', 'Pennsylvania']",White,male,61,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/AX6FI6QRXZ5USV8Q,PA014,"['Carlisle', 'Pennsylvania']",White,female,78,(old),grade school,rural,Midland
+https://search.library.wisc.edu/digital/AFXCUKUWIBA6IF82,PA015,"['New Bloomfield', 'Pennsylvania']",,,,,,,Midland
+https://search.library.wisc.edu/digital/AL6C3BGFFSP7P38F,PA018,"['Manheim', 'Pennsylvania']",White,female,56,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/A6EWADAONPBOO385,PA019,"['Manheim', 'Pennsylvania']",White,female,51,(middle-aged),some high school,village,Midland
+https://search.library.wisc.edu/digital/AQRDWWWI2QOTIX8Y,PA020,"['Manheim', 'Pennsylvania']",White,female,83,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/ACG57TB7PBJGR38O,PA022,"['Terre Hill', 'Pennsylvania']",White,female,60,(old),college,rural,Midland
+https://search.library.wisc.edu/digital/AQPGQOJPC6J6BC84,PA024,"['Terre Hill', 'Pennsylvania']",White,female,61,(old),some college,rural,Midland
+https://search.library.wisc.edu/digital/ANAZT5IR7CFTOW8M,PA026,"['Honey Brook', 'Pennsylvania']",White,female,58,(middle-aged),college,village,Midland
+https://search.library.wisc.edu/digital/A46J75ECA7VELH87,PA027,"['Honey Brook', 'Pennsylvania']",White,male,70,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/AP22EX4LR2KLAR8B,PA028,"['Annville', 'Pennsylvania']",White,female,68,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/A47APRMUV2O7HZ8A,PA029,"['Strasburg', 'Pennsylvania']",White,male,68,(old),some college,village,Midland
+https://search.library.wisc.edu/digital/AQZODMW7FGHKOT9C,PA031,"['Kennett Square', 'Pennsylvania']",White,female,78,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/AMURI7JML5RSEF8A,PA035,"['Kennett Square', 'Pennsylvania']",White,male,71,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/ASKF274E5CN5V69E,PA042,"['Lehighton', 'Pennsylvania']",White,male,65,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AZS4UCBMXDCPF28J,PA044,"['Lehighton', 'Pennsylvania']",White,male,68,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AMFFHJGFS6ALRT8U,PA049,"['Doylestown', 'Pennsylvania']",White,female,65,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/AV5O2JH3CXI3HS8N,PA054,"['Quakertown', 'Pennsylvania']",White,female,72,(old),college,village,Midland
+https://search.library.wisc.edu/digital/ADOAN6EIDYLVGL9E,PA060,"['Stroudsburg', 'Pennsylvania']",White,female,85,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AZN27GGO6YSR328P,PA066,"['Chester', 'Pennsylvania']",Black,female,20,(young),high school,small city,Midland
+https://search.library.wisc.edu/digital/ARRGCS6PB6KDMF9E,PA067,"['Laporte', 'Pennsylvania']",White,female,79,(old),college,rural,North
+https://search.library.wisc.edu/digital/A43SH6QRHMKQ5585,PA068,"['Laporte', 'Pennsylvania']",White,female,48,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/ABYJYLO5VRUEQN9C,PA069,"['Laporte', 'Pennsylvania']",White,male,55,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/ALGL3P7RDAUGNN8M,PA070,"['Washington', 'Pennsylvania']",White,male,83,(old),7th grade,small city,Midland
+https://search.library.wisc.edu/digital/AK6IFIWS2VWPTR8P,PA071,"['Washington', 'Pennsylvania']",White,male,70,(old),college,rural,Midland
+https://search.library.wisc.edu/digital/A357HTNU3IGTYU9B,PA072,"['Lewistown', 'Pennsylvania']",White,female,25,(young),high school,small city,Midland
+https://search.library.wisc.edu/digital/API6F4J4WSQB2W8K,PA074,"['Greensburg', 'Pennsylvania']",White,female,50,(middle-aged),high school,small city,Midland
+https://search.library.wisc.edu/digital/AJNQWNVERIGWAO8J,PA076,"['Pittsburgh', 'Pennsylvania']",White,male,23,(young),college,large city,Midland
+https://search.library.wisc.edu/digital/AGJFZVPMRJO37R8A,PA077,"['Pittsburgh', 'Pennsylvania']",White,female,76,(old),4th grade,large city,Midland
+https://search.library.wisc.edu/digital/AHZFC6EF53QNCA8S,PA087,"['West Newton', 'Pennsylvania']",White,female,19,(young),high school,village,Midland
+https://search.library.wisc.edu/digital/A7CZHCBBHUW7FV9B,PA088,"['Philadelphia', 'Pennsylvania']",White,female,78,(old),high school,urban,Midland
+https://search.library.wisc.edu/digital/A5GQTEKQB2LTEF9A,PA090,"['Philadelphia', 'Pennsylvania']",White,female,82,(old),grade school,urban,Midland
+https://search.library.wisc.edu/digital/AA4ZGYPY7ANQG386,PA091,"['Philadelphia', 'Pennsylvania']",White,female,82,(old),high school,urban,Midland
+https://search.library.wisc.edu/digital/AIRUE7OV5WZUEK84,PA093,"['Pittsburgh', 'Pennsylvania']",White,female,21,(young),college,large city,Midland
+https://search.library.wisc.edu/digital/AN34LBZYWIT4268F,PA094,"['Pittsburgh', 'Pennsylvania']",White,male,27,(young),college,large city,Midland
+https://search.library.wisc.edu/digital/A56RJYOC5NMPX383,PA095,"['Pittsburgh', 'Pennsylvania']",White,male,60,(old),college,large city,Midland
+https://search.library.wisc.edu/digital/ACRKWYYD66FNTX8E,PA096,"['Philadelphia', 'Pennsylvania']",White,female,79,(old),8th grade,urban,Midland
+https://search.library.wisc.edu/digital/ARLKDBBVZOB5W687,PA097,"['Philadelphia', 'Pennsylvania']",White,female,80,(old),grade school,urban,Midland
+https://search.library.wisc.edu/digital/AXF56VXXPCXHUY8N,PA104,"['Montrose', 'Pennsylvania']",White,male,85,(old),high school,village,North
+https://search.library.wisc.edu/digital/AFHXEO6UZLRVPE8U,PA105,"['Berwick', 'Pennsylvania']",White,female,74,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/ATTUEIRNKKSSO383,PA108,"['Berwick', 'Pennsylvania']",White,male,65,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/ANRYJAX23WMPGZ8R,PA112,"['Ashland', 'Pennsylvania']",White,female,62,(old),college,village,Midland
+https://search.library.wisc.edu/digital/ARHQ7VFD4OVTAL8N,PA113,"['Centralia', 'Pennsylvania']",White,female,59,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AD2UFCRWTBELVZ8F,PA115,"['Laceyville', 'Pennsylvania']",White,female,74,(old),high school,rural,North
+https://search.library.wisc.edu/digital/A3YMXGMXTD42BJ8I,PA124,"['Nicholson', 'Pennsylvania']",White,female,63,(old),college,rural,North
+https://search.library.wisc.edu/digital/AXNCQWJSWTG7PZ9C,PA126,"['New Hope', 'Pennsylvania']",White,female,74,(old),college,rural,Midland
+https://search.library.wisc.edu/digital/A4A7WE5UG3BUEI9A,PA129,"['North East', 'Pennsylvania']",White,female,60,(old),college,village,Midland
+https://search.library.wisc.edu/digital/APX7VW7VY4SQ2O8O,PA130,"['North East', 'Pennsylvania']",White,female,71,(old),8th grade,village,Midland
+https://search.library.wisc.edu/digital/ASJ2MQPD2C6WIA9B,PA131,"['Meadville', 'Pennsylvania']",White,female,69,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/AVQFM6U5V5ZDC68N,PA133,"['Meadville', 'Pennsylvania']",White,male,18,(young),high school,small city,Midland
+https://search.library.wisc.edu/digital/AWXQSYSNPXGYBT8L,PA134,"['Hopwood', 'Pennsylvania']",White,female,66,(old),8th grade,village,Midland
+https://search.library.wisc.edu/digital/ADOE4O3H7OA56L8E,PA135,"['Hopwood', 'Pennsylvania']",White,female,72,(old),college,village,Midland
+https://search.library.wisc.edu/digital/AP7IV5MZZOFCAI8G,PA141,"['Aaronsburg', 'Pennsylvania']",White,male,64,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/AB2IWBTGLN2FMO8Z,PA142,"['Aaronsburg', 'Pennsylvania']",White,male,63,(old),high school,rural,Midland
+https://search.library.wisc.edu/digital/ABJFBOYXYBPFM58I,PA145,"['Pittsburgh', 'Pennsylvania']",White,female,39,(young),high school,urban,Midland
+https://search.library.wisc.edu/digital/A2EZXEQ3J27SBM8I,PA146,"['Sunbury', 'Pennsylvania']",White,female,62,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/A2ONLKR6JGMDEZ8E,PA147,"['Sunbury', 'Pennsylvania']",White,male,67,(old),grade school,small city,Midland
+https://search.library.wisc.edu/digital/ACR7PG7VHBE6KS8J,PA148,"['Sunbury', 'Pennsylvania']",White,male,76,(old),high school,small city,Midland
+https://search.library.wisc.edu/digital/A42UJZ2D7B5IYV8J,PA163,"['Loretto', 'Pennsylvania']",White,male,50,(middle-aged),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/AQVKECB7TBBYK38W,PA164,"['Loretto', 'Pennsylvania']",White,male,61,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/AWNBES5U32X4JP8X,PA165,"['Ridgway', 'Pennsylvania']",White,male,34,(young),college,village,Midland
+https://search.library.wisc.edu/digital/AOOH4F6HBZTYK48J,PA167,"['Ambridge', 'Pennsylvania']",White,female,20,(young),college,small city,Midland
+https://search.library.wisc.edu/digital/AH6D5TIAROW6V38L,PA170,"['Philadelphia', 'Pennsylvania']",White,male,29,(young),college,urban,Midland
+https://search.library.wisc.edu/digital/AMKMOY6VQMKHCG8N,PA171,"['Philadelphia', 'Pennsylvania']",White,female,42,(middle-aged),high school,urban,Midland
+https://search.library.wisc.edu/digital/AEHTHBO3CYK3FJ8D,PA172,"['Philadelphia', 'Pennsylvania']",Black,female,49,(middle-aged),high school,urban,Midland
+https://search.library.wisc.edu/digital/ATGXABVLRDGVGY9E,PA175,"['Philipsburg', 'Pennsylvania']",White,female,65,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/A5IPCGFJKNXHSQ8C,PA178,"['Tionesta', 'Pennsylvania']",White,male,64,(old),8th grade,rural,Midland
+https://search.library.wisc.edu/digital/ACQ2DD4XG32HO28L,PA180,"['Tionesta', 'Pennsylvania']",White,male,46,(middle-aged),college,rural,Midland
+https://search.library.wisc.edu/digital/AIR37UTZKPFSN484,PA181,"['Warren', 'Pennsylvania']",White,female,62,(old),college,small city,North
+https://search.library.wisc.edu/digital/AFR66HUZNZ37U48O,PA182,"['Warren', 'Pennsylvania']",White,male,54,(middle-aged),college,small city,North
+https://search.library.wisc.edu/digital/ADIFOHQPMU5GRU8Q,PA184,"['Mercer', 'Pennsylvania']",White,female,46,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AFLU5O4PGFFMUF8Q,PA185,"['Mercer', 'Pennsylvania']",White,male,49,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AK7RVHNQ3CEQ2D8M,PA186,"['Mercer', 'Pennsylvania']",White,female,90,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/A5UWODUQJCJEPY8H,PA188,"['Punxsutawney', 'Pennsylvania']",White,male,90,(old),7th grade,village,Midland
+https://search.library.wisc.edu/digital/A4RB675FFXHQBR8R,PA189,"['Punxsutawney', 'Pennsylvania']",White,female,64,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AI26IG62IZGKOK9E,PA192,"['Coudersport', 'Pennsylvania']",White,male,74,(old),college,village,North
+https://search.library.wisc.edu/digital/APO4JZLJHYCNMZ82,PA193,"['Coudersport', 'Pennsylvania']",White,male,66,(old),8th grade,rural,North
+https://search.library.wisc.edu/digital/AQTNJ6X6FNEQMV8L,PA196,"['Kittanning', 'Pennsylvania']",White,female,55,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AUTOAVQSB4GCXI8C,PA198,"['Kittanning', 'Pennsylvania']",White,male,79,(old),6th grade,village,Midland
+https://search.library.wisc.edu/digital/AWKGRSEJUVCKC68O,PA199,"['Williamsport', 'Pennsylvania']",White,male,57,(middle-aged),high school,small city,Midland
+https://search.library.wisc.edu/digital/A44M2YBUMJPXIY9D,PA200,"['Williamsport', 'Pennsylvania']",White,female,63,(old),college,small city,Midland
+https://search.library.wisc.edu/digital/AYKDWHMLFNDBS28E,PA202,"['Gettysburg', 'Pennsylvania']",White,male,69,(old),college,village,Midland
+https://search.library.wisc.edu/digital/AKR63N57C2VRD48G,PA203,"['Gettysburg', 'Pennsylvania']",White,female,64,(old),8th grade,village,Midland
+https://search.library.wisc.edu/digital/AI7EUPJ7S2JF5H83,PA205,"['McConnellsburg', 'Pennsylvania']",White,male,51,(middle-aged),high school,rural,Midland
+https://search.library.wisc.edu/digital/APV4U6VC6GJA2D8Z,PA208,"['Somerset', 'Pennsylvania']",White,male,33,(young),college,village,Midland
+https://search.library.wisc.edu/digital/AHD4RGPSXZ2C328Z,PA209,"['Somerset', 'Pennsylvania']",White,male,40,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AAAPKGXQK3Z6HP86,PA212,"['Everett', 'Pennsylvania']",White,male,49,(middle-aged),college,rural,Midland
+https://search.library.wisc.edu/digital/A5RQWXWVKAVYCO8V,PA214,"['Everett', 'Pennsylvania']",White,male,47,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/AB2AREZFHIDNX48J,PA215,"['Everett', 'Pennsylvania']",White,female,54,(middle-aged),high school,village,Midland
+https://search.library.wisc.edu/digital/ASBEJU3F7YZ4KL8W,PA216,"['Wellsboro', 'Pennsylvania']",White,male,45,(middle-aged),college,village,Midland
+https://search.library.wisc.edu/digital/AKFNPWTBMVWPS28U,PA221,"['Troy', 'Pennsylvania']",White,female,55,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/AUHNGLPD2P5UPD8D,PA223,"['Troy', 'Pennsylvania']",White,male,51,(middle-aged),college,village,Midland
+https://search.library.wisc.edu/digital/AEMSEWPRZVWZ5Y8A,PA225,"['Carbondale', 'Pennsylvania']",White,female,49,(middle-aged),high school,small city,Midland
+https://search.library.wisc.edu/digital/A6DWYMI6DLHI348F,PA231,"['Milford', 'Pennsylvania']",White,male,53,(middle-aged),8th grade,village,Midland
+https://search.library.wisc.edu/digital/A46NSD3UTAN6JN9E,PA234,"['Union City', 'Pennsylvania']",White,female,70,(old),high school,village,Midland
+https://search.library.wisc.edu/digital/AETCLQZCM4LTHB83,PA239,"['Philadelphia', 'Pennsylvania']",Black,female,27,(young),high school,urban,Midland
+https://search.library.wisc.edu/digital/ASPQAOF2EX3XMF8R,PA240,"['Philadelphia', 'Pennsylvania']",Black,male,31,(young),high school,urban,Midland
+https://search.library.wisc.edu/digital/A4NCJXRR4WUT6K8O,PA241,"['Philadelphia', 'Pennsylvania']",Black,female,22,(young),high school,urban,Midland
+https://search.library.wisc.edu/digital/AIAK67XADTM7DH8N,PA242,"['Elizabethtown', 'Pennsylvania']",White,female,70,(old),college,village,Midland
+https://search.library.wisc.edu/digital/ALRWLWDCEHGVGH9A,PA244,"['Saint Clair', 'Pennsylvania']",White,female,84,(old),grade school,village,Midland
+https://search.library.wisc.edu/digital/AHWE6OUZRPAECX8C,PA247,"['Philadelphia', 'Pennsylvania']",Black,female,29,(young),high school,urban,Midland
+https://search.library.wisc.edu/digital/AYJNDFOBCH7DN28P,PA248,"['Philadelphia', 'Pennsylvania']",Black,female,40,(middle-aged),college,urban,Midland
+https://search.library.wisc.edu/digital/AVKGO2M6W2JEFF8M,RI004,"['Hope', 'Rhode Island']",White,male,65,(old),grade school,rural,North
+https://search.library.wisc.edu/digital/ALH3DGATWOZSNE8S,RI009,"['Bristol', 'Rhode Island']",White,female,85,(old),high school,small city,North
+https://search.library.wisc.edu/digital/AMPEUHRERL4EQV84,RI012,"['Westerly', 'Rhode Island']",White,male,72,(old),college,small city,North
+https://search.library.wisc.edu/digital/AWFJXS7RDXG5LF8V,RI014,"['Little Compton', 'Rhode Island']",White,female,85,(old),grade school,village,North
+https://search.library.wisc.edu/digital/AJX64S74LDHJW68C,RI015,"['Little Compton', 'Rhode Island']",White,female,59,(middle-aged),college,rural,North
+https://search.library.wisc.edu/digital/A4CNWF7TOLDMBU8B,RI016,"['Jamestown', 'Rhode Island']",White,female,76,(old),college,village,North
+https://search.library.wisc.edu/digital/AEYLDGAMJ3EGPM8G,RI017,"['Jamestown', 'Rhode Island']",White,male,75,(old),high school,village,North
+https://search.library.wisc.edu/digital/A724C5O7USCVVO8A,SC002,"['Cheraw', 'South Carolina']",White,female,86,(old),some high school,village,South
+https://search.library.wisc.edu/digital/AQ275IJNZBXJ4C86,SC003,"['Kershaw', 'South Carolina']",White,female,64,(old),8th grade,rural,South
+https://search.library.wisc.edu/digital/AVTPRBYPKXIJEI8I,SC005,"['Charleston', 'South Carolina']",White,female,86,(old),some college,small city,South
+https://search.library.wisc.edu/digital/ASXMI7THJ5C62R8B,SC007,"['Marion', 'South Carolina']",White,female,66,(old),some high school,village,South
+https://search.library.wisc.edu/digital/AOFM3YIMCPWVRF9B,SC008,"['Marion', 'South Carolina']",White,female,22,(young),college,village,South
+https://search.library.wisc.edu/digital/AK5UZDF3GYO6BS9E,SC011,"['Kingstree', 'South Carolina']",White,female,77,(old),some high school,village,South
+https://search.library.wisc.edu/digital/AD4JWFVNMSGECK8H,SC012,"['Kingstree', 'South Carolina']",White,female,67,(old),some high school,village,South
+https://search.library.wisc.edu/digital/AWCDXHUPSMYIAK8Y,SC018,"['McClellanville', 'South Carolina']",White,male,22,(young),college,rural,South
+https://search.library.wisc.edu/digital/A4FYWGJL5SBU2R9E,SC019,"['Cross', 'South Carolina']",White,male,72,(old),8th grade,rural,South
+https://search.library.wisc.edu/digital/AM6ICPETUGAKSC8O,SC021,"['Charleston', 'South Carolina']",White,male,58,(middle-aged),high school,small city,South
+https://search.library.wisc.edu/digital/AQ3K2MIJUWA6HV8O,SC024,"['Davis Station', 'South Carolina']",White,female,83,(old),high school,rural,South
+https://search.library.wisc.edu/digital/A2QTKXX5UY5RNA85,SC025,"['Eutawville', 'South Carolina']",White,male,31,(young),college,rural,South
+https://search.library.wisc.edu/digital/AGHDRFGFPXEP2K8U,SC029,"['York', 'South Carolina']",White,female,77,(old),college,village,South
+https://search.library.wisc.edu/digital/AEHRMSRUNMFN7A8F,SC031,"['York', 'South Carolina']",White,female,69,(old),some high school,village,South
+https://search.library.wisc.edu/digital/APD4PMESXJYIWA8L,SC032,"['Westminster', 'South Carolina']",White,male,54,(middle-aged),8th grade,village,South
+https://search.library.wisc.edu/digital/AAH3MTOP6ML2I58Q,SC034,"['Anderson', 'South Carolina']",White,female,67,(old),some high school,rural,South
+https://search.library.wisc.edu/digital/AUAQV6BSA6QU5R8Z,SC035,"['Anderson', 'South Carolina']",,,,,,,South
+https://search.library.wisc.edu/digital/AOCOQG6BT4XTED8N,SC039,"['Greenville', 'South Carolina']",White,female,72,(old),7th grade,small city,South
+https://search.library.wisc.edu/digital/ACM2QO44I3K4IG8L,SC042,"['Piedmont', 'South Carolina']",White,male,51,(middle-aged),some high school,village,South
+https://search.library.wisc.edu/digital/APLP3WYHB6YKIS8I,SC044,"['Walterboro', 'South Carolina']",White,female,34,(young),high school,village,South
+https://search.library.wisc.edu/digital/AFE25WKKIUR4IO8E,SC045,"['Greenwood', 'South Carolina']",White,male,24,(young),college with graduate work,small city,South
+https://search.library.wisc.edu/digital/AGLBVYT7XCY6IB8E,SC054,"['Columbia', 'South Carolina']",White,female,47,(middle-aged),college with graduate work,large city,South
+https://search.library.wisc.edu/digital/A42QTZ53OETBCI8W,SC055,"['Columbia', 'South Carolina']",Black,male,67,(old),college,large city,South
+https://search.library.wisc.edu/digital/A5ATXSFEFZAEEC8G,SC056,"['Peak', 'South Carolina']",White,female,76,(old),8th grade,rural,South
+https://search.library.wisc.edu/digital/ASX5H4E2FZFSOG82,SC058,"['Little Mountain', 'South Carolina']",White,male,69,(old),some high school,rural,South
+https://search.library.wisc.edu/digital/AVVIVMMWCMMVDJ8M,SC059,"['Pomaria', 'South Carolina']",White,female,76,(old),some college,rural,South
+https://search.library.wisc.edu/digital/AJCP3JIMSXMTIH82,SC064,"['Beaufort', 'South Carolina']",Black,male,18,(young),high school,village,South
+https://search.library.wisc.edu/digital/AIBTPJZ57LQQU78B,SC065,"['Beaufort', 'South Carolina']",Black,male,18,(young),high school,village,South
+https://search.library.wisc.edu/digital/ACUNQ36V2DUWDU82,SC066,"['Charleston', 'South Carolina']",Black,female,68,(old),college with graduate work,small city,South
+https://search.library.wisc.edu/digital/AXKUPLVGDPYAWW8D,SC067,"['Charleston', 'South Carolina']",Black,male,50,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/ATMPAVZPYED3OL8T,SC068,"['Charleston', 'South Carolina']",Black,male,55,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AVPQM5S3J4BNQG8E,SC069,"['Port Royal', 'South Carolina']",Black,male,46,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/AEAPKKJEHJKWEP8S,SC070,"['Port Royal', 'South Carolina']",Black,female,52,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/AZT4UMYGWRBXL28S,SD002,"['Eureka', 'South Dakota']",White,male,57,(middle-aged),8th grade,village,North
+https://search.library.wisc.edu/digital/A7AVC5ELMGJU6N8F,SD003,"['Baltic', 'South Dakota']",White,male,74,(old),high school,rural,North
+https://search.library.wisc.edu/digital/ATBUXAGNQEANKL8T,SD005,"['Deadwood', 'South Dakota']",White,male,73,(old),high school,village,West
+https://search.library.wisc.edu/digital/ARVX4NQZJJ3LCH8O,SD008,"['Ludlow', 'South Dakota']",White,male,67,(old),grade school,rural,North Central
+https://search.library.wisc.edu/digital/AF74PRH7EKJYPC8Q,TN001,"['Cumberland Gap', 'Tennessee']",White,male,67,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/AOPOIASYCK5UNI8M,TN002,"['Rogersville', 'Tennessee']",White,female,74,(old),college,village,South
+https://search.library.wisc.edu/digital/AXGGB25RRPPJVK8N,TN003,"['Rogersville', 'Tennessee']",White,female,77,(old),college,village,South
+https://search.library.wisc.edu/digital/AJBABI2P72JINB9D,TN004,"['Rogersville', 'Tennessee']",White,female,70,(old),college,village,South
+https://search.library.wisc.edu/digital/AHO2IDO36P3CB28H,TN005,"['Rogersville', 'Tennessee']",White,female,67,(old),college,village,South
+https://search.library.wisc.edu/digital/A6ARCJNKXSN3J78M,TN006,"['Rogersville', 'Tennessee']",White,female,66,(old),college,village,South
+https://search.library.wisc.edu/digital/A7ZIJ2FLHDNRZU8G,TN007,"['Rogersville', 'Tennessee']",White,male,57,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/AOUYRPFXXDYFAX8H,TN008,"['Rogersville', 'Tennessee']",White,female,54,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/ASKPZ7ZEORXKCD8A,TN010,"['Telford', 'Tennessee']",White,male,51,(middle-aged),college,rural,South
+https://search.library.wisc.edu/digital/AZ4AA7L2DGHIRT8Y,TN012,"['Jonesboro', 'Tennessee']",White,female,85,(old),college,village,South
+https://search.library.wisc.edu/digital/AFGF3ENSEP5ENS9C,TN013,"['Gatlinburg', 'Tennessee']",White,female,66,(old),grade school,village,South
+https://search.library.wisc.edu/digital/ACWF3WUHRYILFB8B,TN022,"['Maryville', 'Tennessee']",White,male,82,(old),high school,rural,South
+https://search.library.wisc.edu/digital/AMNS3LE5XJDXBX8J,TN023,"['Maryville', 'Tennessee']",White,female,76,(old),high school,small city,South
+https://search.library.wisc.edu/digital/ARUGJXIKLJGJ368R,TN024,"['Raleigh', 'Tennessee']",White,female,73,(old),grade school,large city,South
+https://search.library.wisc.edu/digital/AANNXKVW44QPYR8V,TN026,"['Martin', 'Tennessee']",White,male,60,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/AHWX5UOP7WH5OZ8D,TN028,"['Athens', 'Tennessee']",,,,,,,South
+https://search.library.wisc.edu/digital/AT47AWNXHZOQNN9B,TN029,"['Athens', 'Tennessee']",,,,,,,South
+https://search.library.wisc.edu/digital/AKSWXIGGWQBJIA9B,TN031,"['Castalian Springs', 'Tennessee']",White,male,79,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/ANKVTGU4CQP5M483,TN033,"['Selmer', 'Tennessee']",White,female,34,(young),high school,village,South
+https://search.library.wisc.edu/digital/AH2IQDU5D2X5PI8W,TN034,"['Somerville', 'Tennessee']",White,male,80,(old),college,village,South
+https://search.library.wisc.edu/digital/AC4TNYDHCDNILZ9E,TN035,"['Parsons', 'Tennessee']",White,female,55,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AKJCPUC4YCIDT68L,TN040,"['Camden', 'Tennessee']",White,male,27,(young),college,village,South
+https://search.library.wisc.edu/digital/AW6UHCFECW2VGP82,TN041,"['Dayton', 'Tennessee']",White,female,56,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/AWC5TD74XQSLUJ8S,TN042,"['Dayton', 'Tennessee']",White,male,60,(old),high school,village,South
+https://search.library.wisc.edu/digital/AN2HOC4NDPUBGP8M,TN043,"['Dayton', 'Tennessee']",White,male,42,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/AL7Q5UMNVVLIIJ8K,TN044,"['Jasper', 'Tennessee']",White,male,54,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/AYGP2C6L7VVQ738A,TN046,"['Memphis', 'Tennessee']",Black,female,23,(young),college,large city,South
+https://search.library.wisc.edu/digital/AKDXUH7LVXOGVM8J,TN048,"['Memphis', 'Tennessee']",Black,male,82,(old),college,large city,South
+https://search.library.wisc.edu/digital/AQBAS3Z6B6H5EP8P,TN052,"['Brownsville', 'Tennessee']",Black,female,78,(old),grade school,village,South
+https://search.library.wisc.edu/digital/AMDVG72S3K3Q728G,TN053,"['Brownsville', 'Tennessee']",Black,male,60,(old),college,village,South
+https://search.library.wisc.edu/digital/AGQXJHCQZJL4OI8P,TN058,"['Pulaski', 'Tennessee']",White,female,24,(young),college,village,South
+https://search.library.wisc.edu/digital/ABJUSYAA2NPCLV82,TN059,"['Pulaski', 'Tennessee']",White,female,32,(young),high school,village,South
+https://search.library.wisc.edu/digital/AQRSULUERHZQEO8V,TN066,"['Murfreesboro', 'Tennessee']",White,male,42,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AI3QPSD2GAS7Z28C,TX005,"['El Paso', 'Texas']",White,male,57,(middle-aged),college,rural,South
+https://search.library.wisc.edu/digital/ALCYFSIHP7576M83,TX009,"['Orange', 'Texas']",White,male,65,(old),high school,small city,South
+https://search.library.wisc.edu/digital/AWHCVPT6V22ATJ8P,TX010,"['Clint', 'Texas']",White,female,72,(old),college,rural,South
+https://search.library.wisc.edu/digital/AU4BBUNLFFBLG786,TX011,"['Goliad', 'Texas']",White,male,62,(old),high school,village,South
+https://search.library.wisc.edu/digital/AKKSFQPKGUMISS8J,TX012,"['Bay City', 'Texas']",White,female,81,(old),college,rural,South
+https://search.library.wisc.edu/digital/AHQCNSUOENE6X39C,TX013,"['Karnes City', 'Texas']",White,male,72,(old),high school,village,South
+https://search.library.wisc.edu/digital/A4RZN3QHOIPXGF8J,TX015,"['Galveston', 'Texas']",White,female,60,(old),college,small city,South
+https://search.library.wisc.edu/digital/ALA4Y5O4NIM2CU8C,TX018,"['Rockport', 'Texas']",White,male,59,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/AVPRG24FFJRKVH8T,TX019,"['Refugio', 'Texas']",White,male,64,(old),8th grade,village,South
+https://search.library.wisc.edu/digital/AJZ77VFCMUGHAL8T,TX023,"['Refugio', 'Texas']",White,male,68,(old),college,village,South
+https://search.library.wisc.edu/digital/AIBZLZKNUYTNAL9E,TX027,"['Mission', 'Texas']",White,female,19,(young),high school,small city,South
+https://search.library.wisc.edu/digital/AX5IG3VNS4DBBL8A,TX028,"['Laredo', 'Texas']",White,male,49,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AESBMRPSLAYWFK8F,TX029,"['Cotulla', 'Texas']",White,female,58,(middle-aged),college,village,South
+https://search.library.wisc.edu/digital/AT5HGEO3VWTN748A,TX031,"['Brownsville', 'Texas']",White,male,74,(old),high school,small city,South
+https://search.library.wisc.edu/digital/AEXYYHE7MBICOJ8Y,TX032,"['San Augustine', 'Texas']",White,female,53,(middle-aged),grade school,village,South
+https://search.library.wisc.edu/digital/AFAQY4DP3PN2YI8R,TX033,"['Nacogdoches', 'Texas']",White,female,35,(young),high school,small city,South
+https://search.library.wisc.edu/digital/AXJZMGKVMEXUEZ8Y,TX036,"['Woodville', 'Texas']",White,female,76,(old),grade school,village,South
+https://search.library.wisc.edu/digital/AWHF3SZ6B2STVX8P,TX040,"['Cisco', 'Texas']",White,female,80,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/A3YCVK6RDJHVB58O,TX041,"['Lubbock', 'Texas']",White,male,18,(young),high school,large city,South
+https://search.library.wisc.edu/digital/AWGOW3Y2YJJC728S,TX043,"['San Angelo', 'Texas']",White,male,76,(old),high school,small city,South
+https://search.library.wisc.edu/digital/ARIXQ2YAT3BAFL8M,TX053,"['Waco', 'Texas']",White,male,45,(middle-aged),college,small city,South
+https://search.library.wisc.edu/digital/AFZ5XS6EYCGQ3X8K,TX054,"['Fredericksburg', 'Texas']",White,male,60,(old),grade school,village,South
+https://search.library.wisc.edu/digital/AE6AKLOYF22P338J,TX059,"['Wichita Falls', 'Texas']",,,,,,,South
+https://search.library.wisc.edu/digital/AQ7QSFJKDBX5QN9A,TX062,"['Dime Box', 'Texas']",White,female,74,(old),high school,rural,South
+https://search.library.wisc.edu/digital/AVXEN7QEMYGJQF84,TX065,"['Alpine', 'Texas']",White,female,82,(old),college,village,South
+https://search.library.wisc.edu/digital/A6XPNI67XPD5CC9B,TX068,"['Ozona', 'Texas']",White,male,17,(young),high school,rural,South
+https://search.library.wisc.edu/digital/AG4BDYRQZTAQ2X8P,TX069,"['Ozona', 'Texas']",White,female,61,(old),college,rural,South
+https://search.library.wisc.edu/digital/AKUCV7CEPJEQLH8N,TX070,"['Ozona', 'Texas']",White,male,72,(old),high school,village,South
+https://search.library.wisc.edu/digital/AL7UZA2RW2U2ZR8B,TX071,"['Mentone', 'Texas']",White,female,65,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/AIOBBGZEWTIZGY8F,TX072,"['Mentone', 'Texas']",White,male,47,(middle-aged),college,rural,South
+https://search.library.wisc.edu/digital/A2OWH2KQAJ5YEC8M,TX073,"['Fort Worth', 'Texas']",White,female,66,(old),college,large city,South
+https://search.library.wisc.edu/digital/ATH2FWWUASLH5C8P,TX075,"['Fort Worth', 'Texas']",White,female,64,(old),college,large city,South
+https://search.library.wisc.edu/digital/ANC2PPYKV5TZ6T8V,TX078,"['Big Spring', 'Texas']",White,male,35,(young),college,small city,South
+https://search.library.wisc.edu/digital/AXAXXP6OMM3OAS86,TX079,"['Big Spring', 'Texas']",White,female,56,(middle-aged),high school,small city,South
+https://search.library.wisc.edu/digital/AK4Z7EGXHL6H6E8U,TX081,"['Brady', 'Texas']",White,male,53,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/A7YT3DPPC3NLAL9C,TX082,"['Brady', 'Texas']",White,female,80,(old),college,village,South
+https://search.library.wisc.edu/digital/AP35KTIYMZZUUV9D,TX085,"['Houston', 'Texas']",White,female,71,(old),grade school,large city,South
+https://search.library.wisc.edu/digital/AIDMK6DMSHBERZ8W,TX087,"['Houston', 'Texas']",White,female,51,(middle-aged),college,large city,South
+https://search.library.wisc.edu/digital/AITWFMCXQWU5NW8Y,TX089,"['Sulphur Springs', 'Texas']",White,male,65,(old),college,village,South
+https://search.library.wisc.edu/digital/AOVX6QPSKDJ6CN8D,TX093,"['Sulphur Springs', 'Texas']",White,female,68,(old),college,village,South
+https://search.library.wisc.edu/digital/ANDKB6KIEIE53X9E,TX094,"['Kennard', 'Texas']",White,female,77,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/AVZQOB7TSC3UYT8V,TX096,"['Crockett', 'Texas']",White,male,81,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/ARRT3HGRWJYQ7Z8A,TX099,"['Timpson', 'Texas']",White,female,64,(old),college,village,South
+https://search.library.wisc.edu/digital/AGQGYKBUE32AIX8U,TX100,"['Timpson', 'Texas']",White,male,58,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/AO2MATPQ7Q4YQS8W,TX101,"['Kingsville', 'Texas']",White,male,72,(old),college,village,South
+https://search.library.wisc.edu/digital/A5JMBQCKGX3UQY8S,TX104,"['Athens', 'Texas']",White,female,80,(old),grade school,village,South
+https://search.library.wisc.edu/digital/A3M72PSTIMKJIU9B,UT001,"['Salt Lake City', 'Utah']",White,female,81,(old),8th grade,large city,West
+https://search.library.wisc.edu/digital/AQ4QD534H22N6R8W,UT004,"['Corinne', 'Utah']",White,male,63,(old),8th grade,rural,West
+https://search.library.wisc.edu/digital/AGHCQ44LMUGICV8M,UT006,"['Fillmore', 'Utah']",White,female,63,(old),college,village,West
+https://search.library.wisc.edu/digital/AER7NBKAKZATXW85,UT007,"['Fillmore', 'Utah']",White,female,71,(old),college,village,West
+https://search.library.wisc.edu/digital/AXA7PAJ3ON23A38C,UT011,"['Moab', 'Utah']",White,female,64,(old),high school,village,West
+https://search.library.wisc.edu/digital/AMCJWAJS4HT4AD8Z,VA002,"['Big Stone Gap', 'Virginia']",White,female,37,(young),grade school,rural,South
+https://search.library.wisc.edu/digital/AGJKUEFIWXYAK282,VA005,"['Abingdon', 'Virginia']",White,male,70,(old),high school,village,South
+https://search.library.wisc.edu/digital/ACF2ZIY24GOEAK8B,VA012,"['Wytheville', 'Virginia']",White,female,64,(old),high school,village,South
+https://search.library.wisc.edu/digital/A5YZDRQIH4GKDG87,VA017,"['Hillsville', 'Virginia']",White,female,79,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/ALKWMMVUTHMZ5N8H,VA018,"['Salem', 'Virginia']",White,female,81,(old),college,small city,South
+https://search.library.wisc.edu/digital/AATQAIGYBJF6EV8K,VA023,"['Buchanan', 'Virginia']",White,female,83,(old),college,village,South
+https://search.library.wisc.edu/digital/A72DNTXISZLQMH84,VA025,"['Buchanan', 'Virginia']",White,female,75,(old),high school,rural,South
+https://search.library.wisc.edu/digital/ABHX4F7NFNWS359D,VA026,"['Lexington', 'Virginia']",White,male,72,(old),college,rural,South
+https://search.library.wisc.edu/digital/AHN5YB5TJLMSOX8E,VA030,"['Timberville', 'Virginia']",White,female,69,(old),college,rural,South
+https://search.library.wisc.edu/digital/AR5TQWBJZRRY668Z,VA033,"['Winchester', 'Virginia']",White,male,73,(old),college,small city,South
+https://search.library.wisc.edu/digital/ANSEGND5VRKT7Y8U,VA043,"['Chatham', 'Virginia']",White,male,66,(old),high school,rural,South
+https://search.library.wisc.edu/digital/A4GBNFGXQXTMNV9C,VA046,"['Smithfield', 'Virginia']",Black,male,68,(old),high school,rural,South
+https://search.library.wisc.edu/digital/AUNTBWMSY35BY785,VA047,"['Chincoteague', 'Virginia']",White,male,42,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/ABA5LST23DAFID82,VA059,"['Leesburg', 'Virginia']",White,male,35,(young),high school,rural,South
+https://search.library.wisc.edu/digital/AIGRFKZANUSBK38Q,VA062,"['Leesburg', 'Virginia']",White,female,35,(young),high school,village,South
+https://search.library.wisc.edu/digital/AJCIQI32VDWKYG8H,VA064,"['Warrenton', 'Virginia']",White,male,66,(old),college,village,South
+https://search.library.wisc.edu/digital/ASHZ25NDDBPS658T,VA065,"['Warrenton', 'Virginia']",White,female,45,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/A7MSGHZKCXIVIR8S,VA066,"['Warrenton', 'Virginia']",White,female,89,(old),high school,village,South
+https://search.library.wisc.edu/digital/APAOEEOPZ3ED4R8X,VA069,"['Capron', 'Virginia']",Black,female,53,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/A4UINFEESKWYJL8G,VA070,"['Capron', 'Virginia']",Black,male,61,(old),grade school,rural,South
+https://search.library.wisc.edu/digital/A4N5VES67MOR7C8Q,VA071,"['Petersburg', 'Virginia']",Black,female,61,(old),high school,small city,South
+https://search.library.wisc.edu/digital/ANTOTISDGFBEOD82,VA072,"['Petersburg', 'Virginia']",Black,female,65,(old),college,small city,South
+https://search.library.wisc.edu/digital/ABERYZHKEXWOVS8M,VA073,"['Petersburg', 'Virginia']",Black,male,28,(young),high school,small city,South
+https://search.library.wisc.edu/digital/A5IXUALF266JVX8V,VA075,"['Caret', 'Virginia']",White,male,50,(middle-aged),grade school,rural,South
+https://search.library.wisc.edu/digital/AKU7CSFWV5UQ7K86,VA079,"['Warsaw', 'Virginia']",White,male,27,(young),high school,rural,South
+https://search.library.wisc.edu/digital/APBWDHRAMWCDJU8W,VA081,"['Richmond', 'Virginia']",White,female,29,(young),high school,large city,South
+https://search.library.wisc.edu/digital/ANZUU5QL36YXY28R,VA083,"['Richmond', 'Virginia']",White,female,34,(young),college,large city,South
+https://search.library.wisc.edu/digital/AOZ5RJAWTDWFJL8N,VA090,"['Buckingham', 'Virginia']",White,female,47,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/AJQZNGG3V2P65J87,VA091,"['Buckingham', 'Virginia']",White,female,45,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/ADFB7HFCYNCGQC8S,VA093,"['Charlottesville', 'Virginia']",White,female,47,(middle-aged),high school,small city,South
+https://search.library.wisc.edu/digital/AZHHWC56GUSHU383,VA096,"['Scottsville', 'Virginia']",White,male,57,(middle-aged),high school,rural,South
+https://search.library.wisc.edu/digital/AGLDNFHFKI7LUA8P,VA097,"['Lynchburg', 'Virginia']",White,male,68,(old),grade school,small city,South
+https://search.library.wisc.edu/digital/A4OLXZIZMUWHQE8O,VA098,"['Lynchburg', 'Virginia']",White,female,39,(young),college,small city,South
+https://search.library.wisc.edu/digital/AYEJUTR6TLYYVT8Y,VA104,"['Pendletons', 'Virginia']",White,female,75,(old),high school,rural,South
+https://search.library.wisc.edu/digital/AWCIW647TBXKNA9D,VA105,"['Bumpass', 'Virginia']",White,male,68,(old),high school,rural,South
+https://search.library.wisc.edu/digital/A3WT7DXAGXWSAS8R,VA106,"['Fredericksburg', 'Virginia']",White,female,73,(old),college,small city,South
+https://search.library.wisc.edu/digital/AJTNT3L2DG43UG8B,VA107,"['Fredericksburg', 'Virginia']",White,female,32,(young),college,small city,South
+https://search.library.wisc.edu/digital/AKZP73IMUECLYO8I,VT013,"['Woodstock', 'Vermont']",White,female,85,(old),high school,village,New England
+https://search.library.wisc.edu/digital/ADSWQN66CQJVBF9D,VT014,"['Woodstock', 'Vermont']",,,,,,,New England
+https://search.library.wisc.edu/digital/AZOG6MHOWFSGIC8S,VT015,"['Woodstock', 'Vermont']",,,,,,,New England
+https://search.library.wisc.edu/digital/A5NRAJFNY3T3QC8G,VT016,"['Newport', 'Vermont']",White,male,55,(middle-aged),high school,village,New England
+https://search.library.wisc.edu/digital/ASVE6WRGMCFKOW83,WA001,"['Chewelah', 'Washington']",White,female,65,(old),high school,rural,West
+https://search.library.wisc.edu/digital/AFZAERJQHCCLUM8I,WA002,"['Chewelah', 'Washington']",White,male,94,(old),6th grade,village,West
+https://search.library.wisc.edu/digital/ALRH42XAAO2RDJ8Z,WA003,"['Pullman', 'Washington']",White,male,70,(old),college,small city,West
+https://search.library.wisc.edu/digital/AJDFBO5DZYMJ3X8D,WA006,"['Walla Walla', 'Washington']",White,female,79,(old),high school,small city,West
+https://search.library.wisc.edu/digital/AUJW735MOZ3EHQ8K,WA008,"['Yakima', 'Washington']",White,female,76,(old),college,rural,West
+https://search.library.wisc.edu/digital/AP36GPILAW3PKV8D,WA009,"['Yakima', 'Washington']",White,female,65,(old),high school,small city,West
+https://search.library.wisc.edu/digital/AXOLWPMXC7455P86,WA012,"['Cashmere', 'Washington']",White,female,75,(old),high school,village,West
+https://search.library.wisc.edu/digital/ADO75K72EXSTMO8V,WA013,"['Cashmere', 'Washington']",White,male,69,(old),high school,village,West
+https://search.library.wisc.edu/digital/AKRBHBXVEW547F8C,WA015,"['Port Townsend', 'Washington']",White,female,79,(old),high school,village,West
+https://search.library.wisc.edu/digital/AQI3T27KEK4DBW8N,WA016,"['Port Townsend', 'Washington']",White,male,70,(old),college,village,West
+https://search.library.wisc.edu/digital/AHUGMFXGZCH6RL8Z,WA017,"['Port Townsend', 'Washington']",White,male,74,(old),high school,village,West
+https://search.library.wisc.edu/digital/AMY24UONJNLEUR9C,WA019,"['Raymond', 'Washington']",White,female,61,(old),high school,village,West
+https://search.library.wisc.edu/digital/A45TZP2VVT7HDN9D,WA020,"['Raymond', 'Washington']",White,male,63,(old),high school,village,West
+https://search.library.wisc.edu/digital/AJ4UL6SIMOZXQE8J,WA023,"['Skykomish', 'Washington']",White,female,47,(middle-aged),college,rural,West
+https://search.library.wisc.edu/digital/AR75HDEVVXUSGH8V,WA024,"['Arlington', 'Washington']",White,male,78,(old),grade school,village,West
+https://search.library.wisc.edu/digital/AFOTABLX3MYQDJ87,WA025,"['Arlington', 'Washington']",White,female,76,(old),high school,rural,West
+https://search.library.wisc.edu/digital/AWZ5ZU2EUGVMGH8E,WA028,"['Hazel Dell', 'Washington']",White,female,50,(middle-aged),high school,village,West
+https://search.library.wisc.edu/digital/AEYOFP7QQWG7GK8K,WA029,"['Vancouver', 'Washington']",White,male,58,(middle-aged),grade school,small city,West
+https://search.library.wisc.edu/digital/ADXCUE4G7SL7AC87,WA030,"['Castle Rock', 'Washington']",White,male,60,(old),high school,rural,West
+https://search.library.wisc.edu/digital/AJMOCTXXBLFQED8J,WI008,"['Portage', 'Wisconsin']",White,female,68,(old),college,village,North
+https://search.library.wisc.edu/digital/ATFL7VCVLCZIGG8I,WI010,"['Hustisford', 'Wisconsin']",White,male,70,(old),8th grade,rural,North
+https://search.library.wisc.edu/digital/ASFOWSBHWZLUAQ8V,WI011,"['Hustisford', 'Wisconsin']",White,female,60,(old),high school,rural,North
+https://search.library.wisc.edu/digital/ALAVBBFNPSPOTT8H,WI013,"['Jefferson', 'Wisconsin']",White,female,42,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/AOLX4WBNYNCUSD8H,WI017,"['Jefferson', 'Wisconsin']",White,male,50,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/A5ECQSUZ5DMFZS8R,WI018,"['Jefferson', 'Wisconsin']",White,female,54,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/AFSNMOQZZGQM7M82,WI019,"['Janesville', 'Wisconsin']",White,male,76,(old),college,small city,North
+https://search.library.wisc.edu/digital/AJZCOIZHKRMFOZ8D,WI020,"['Janesville', 'Wisconsin']",White,female,60,(old),college,small city,North
+https://search.library.wisc.edu/digital/A2M4A56Z2G7ENP8K,WI021,"['Janesville', 'Wisconsin']",White,female,76,(old),college,small city,North
+https://search.library.wisc.edu/digital/AQD63DL5KJOD7P9E,WI022,"['Janesville', 'Wisconsin']",White,male,80,(old),6th grade,small city,North
+https://search.library.wisc.edu/digital/AS4BSPZGKZHDP78B,WI023,"['Belmont', 'Wisconsin']",White,female,63,(old),high school,rural,North
+https://search.library.wisc.edu/digital/ALV7B7PE5TMUGT8F,WI024,"['Belmont', 'Wisconsin']",White,female,70,(old),college,rural,North
+https://search.library.wisc.edu/digital/A5RCNAAUW7N5HI8V,WI025,"['Belmont', 'Wisconsin']",White,female,74,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AJK3VWLHM75MO48J,WI026,"['Belmont', 'Wisconsin']",White,male,80,(old),8th grade,rural,North
+https://search.library.wisc.edu/digital/A3VHCPMG6SSFR58Z,WI027,"['Belmont', 'Wisconsin']",White,male,70,(old),high school,rural,North
+https://search.library.wisc.edu/digital/A7ECHRQQ6LH4268J,WI029,"['Necedah', 'Wisconsin']",White,female,57,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/AOZMWIQSTDTLU68Q,WI030,"['Necedah', 'Wisconsin']",White,male,58,(middle-aged),8th grade,rural,North
+https://search.library.wisc.edu/digital/AW46MCCRP7HDHB87,WI034,"['Wautoma', 'Wisconsin']",White,female,30,(young),college,village,North
+https://search.library.wisc.edu/digital/A6TDNQL7B4YHZH8R,WI040,"['Wautoma', 'Wisconsin']",White,male,49,(middle-aged),high school,village,North
+https://search.library.wisc.edu/digital/A5R6QHJABQNVTC8A,WI043,"['Lancaster', 'Wisconsin']",White,male,68,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AV3PASEQ326V2G8P,WI044,"['Lancaster', 'Wisconsin']",White,male,83,(old),8th grade,rural,North
+https://search.library.wisc.edu/digital/A4L5UQQJKGSDWV8I,WI046,"['Lancaster', 'Wisconsin']",White,female,79,(old),high school,village,North
+https://search.library.wisc.edu/digital/AC4KYKFOPLGVA584,WI047,"['New Berlin', 'Wisconsin']",White,female,35,(young),college,small city,North
+https://search.library.wisc.edu/digital/ASXOPGJGENTHWK85,WI048,"['Greenfield', 'Wisconsin']",White,male,48,(middle-aged),college,small city,North
+https://search.library.wisc.edu/digital/ARFNSVYAHL6OM58A,WI049,"['Menomonee Falls', 'Wisconsin']",White,female,78,(old),high school,small city,North
+https://search.library.wisc.edu/digital/AXFLNEGNW3OZLZ8C,WI050,"['Menomonee Falls', 'Wisconsin']",White,female,45,(middle-aged),high school,small city,North
+https://search.library.wisc.edu/digital/ACLQOUHFZY4PVU8N,WI052,"['Florence', 'Wisconsin']",White,female,72,(old),college,rural,North Central
+https://search.library.wisc.edu/digital/ABHX5BSMAE5MKB82,WI055,"['La Crosse', 'Wisconsin']",White,male,25,(young),college,small city,North
+https://search.library.wisc.edu/digital/AT7RQ7OIVP56TD8Q,WI056,"['La Crosse', 'Wisconsin']",White,female,65,(old),college,small city,North
+https://search.library.wisc.edu/digital/ASFID5FRJOUN658I,WI058,"['Polar', 'Wisconsin']",White,female,50,(middle-aged),college,village,North
+https://search.library.wisc.edu/digital/AACAP2Q4CSRENQ8V,WI059,"['Antigo', 'Wisconsin']",White,male,80,(old),college,village,North
+https://search.library.wisc.edu/digital/ANWYIPPZO6BUYF8X,WI060,"['Algoma', 'Wisconsin']",White,male,67,(old),high school,village,North
+https://search.library.wisc.edu/digital/A3HHWXY7M2GIGB8F,WI061,"['Algoma', 'Wisconsin']",White,male,60,(old),high school,village,North
+https://search.library.wisc.edu/digital/APIHKZA6JHSEMP8P,WI062,"['Burlington', 'Wisconsin']",White,female,78,(old),college,village,North
+https://search.library.wisc.edu/digital/A5RTPKOVJGJ3YI9C,WI064,"['Superior', 'Wisconsin']",White,female,54,(middle-aged),college,small city,North Central
+https://search.library.wisc.edu/digital/ARVMWTEC3EC77U8H,WI065,"['Superior', 'Wisconsin']",White,female,56,(middle-aged),high school,small city,North Central
+https://search.library.wisc.edu/digital/AJ2RGWODMIHFSR8I,WI066,"['Pepin', 'Wisconsin']",White,female,72,(old),high school,rural,North
+https://search.library.wisc.edu/digital/AOY6C4JIELZ5AO9C,WI067,"['Jim Falls', 'Wisconsin']",White,female,67,(old),8th grade,rural,North
+https://search.library.wisc.edu/digital/AXY2WOFV35YIVI8R,WI068,"['Jim Falls', 'Wisconsin']",White,female,42,(middle-aged),high school,rural,North
+https://search.library.wisc.edu/digital/AY3PWIV365RJ3H8M,WI070,"['River Falls', 'Wisconsin']",White,female,78,(old),high school,village,North
+https://search.library.wisc.edu/digital/AL6COEZQ5F2NKA87,WI071,"['Manitowoc', 'Wisconsin']",White,female,52,(middle-aged),high school,small city,North
+https://search.library.wisc.edu/digital/AM53HN6SRWE64U8A,WI072,"['Bayfield', 'Wisconsin']",White,female,69,(old),college,rural,North Central
+https://search.library.wisc.edu/digital/AYMUUO2OM6QXWI87,WI076,"['Washington Island', 'Wisconsin']",White,female,73,(old),8th grade,rural,North
+https://search.library.wisc.edu/digital/AGHPM55BODXLJV8P,WI077,"['Washington Island', 'Wisconsin']",White,male,54,(middle-aged),8th grade,rural,North
+https://search.library.wisc.edu/digital/AWLZNFHFK6G4NR9E,WV001,"['Marlinton', 'West Virginia']",White,female,69,(old),grade school,village,South
+https://search.library.wisc.edu/digital/AFS6OHHJA54SP48T,WV002,"['Marlinton', 'West Virginia']",White,male,68,(old),college,village,South
+https://search.library.wisc.edu/digital/A3FBIP3RN3XNHW8B,WV003,"['Spencer', 'West Virginia']",White,male,80,(old),high school,village,South
+https://search.library.wisc.edu/digital/AEXMJ6NVVEMXME8M,WV004,"['Milton', 'West Virginia']",White,male,87,(old),grade school,village,South
+https://search.library.wisc.edu/digital/AT3OPC2DPNF5M49B,WV006,"['Westover', 'West Virginia']",White,female,80,(old),grade school,village,South
+https://search.library.wisc.edu/digital/AWEPHBP2HUYQLU8S,WV007,"['Westover', 'West Virginia']",White,male,86,(old),grade school,rural,Midland
+https://search.library.wisc.edu/digital/AMU7MQJNHI3SK38F,WV008,"['Moorefield', 'West Virginia']",White,male,60,(old),some schooling,rural,South
+https://search.library.wisc.edu/digital/AY5JVPM4OLJBXN9D,WV010,"['Romney', 'West Virginia']",White,female,21,(young),college,village,South
+https://search.library.wisc.edu/digital/ARFF66NQKSUK228C,WV011,"['Romney', 'West Virginia']",White,female,87,(old),grade school,village,South
+https://search.library.wisc.edu/digital/ABN3V2LTSU5RDZ8S,WV012,"['Lewisburg', 'West Virginia']",White,male,30,(young),high school,village,South
+https://search.library.wisc.edu/digital/ABR7TJAO3M4GHE8G,WV013,"['Richwood', 'West Virginia']",White,male,66,(old),grade school,village,South
+https://search.library.wisc.edu/digital/ATSF2RVCJWN35D8D,WV018,"['Charles Town', 'West Virginia']",White,male,45,(middle-aged),high school,village,South
+https://search.library.wisc.edu/digital/ARSKQ46RVPCLCB87,WV019,"['Charles Town', 'West Virginia']",White,female,18,(young),high school,village,South
+https://search.library.wisc.edu/digital/A5K4CO6PRBP7I58O,WV020,"['Charleston', 'West Virginia']",Black,female,26,(young),college,small city,South
+https://search.library.wisc.edu/digital/AZGUUJOMVR36RT8X,WV021,"['Charleston', 'West Virginia']",Black,male,18,(young),high school,small city,South
+https://search.library.wisc.edu/digital/A3IRY33D4UETPS8V,WV022,"['Charles Town', 'West Virginia']",White,female,69,(old),high school,village,South
+https://search.library.wisc.edu/digital/AIZ5FH4CI66P6285,WY001,"['Jackson', 'Wyoming']",White,male,61,(old),high school,rural,West
+https://search.library.wisc.edu/digital/AWJNJID2BXSWJT8P,WY002,"['Jackson', 'Wyoming']",White,male,70,(old),grade school,village,West
+https://search.library.wisc.edu/digital/A3UHZLR2KS3X6L8T,WY003,"['Hilliard Flat', 'Wyoming']",White,female,71,(old),grade school,rural,West
+https://search.library.wisc.edu/digital/AVWWSYWAZ7LSMN8B,WY005,"['Laramie', 'Wyoming']",White,male,75,(old),high school,village,West
