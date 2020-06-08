@@ -24,12 +24,12 @@ def filter_df(df):
     # to the name of the new column
     new_eng = df[df['accent(southsplit)'] == 'New England']
     nyc = df[df['accent(southsplit)'] == 'New York City']
-    south_in = df[df['accent(southsplit)'] == 'Inland South'][:100]
-    south_low = df[df['accent(southsplit)'] == 'Lowland South'][:100]
-    midland = df[df['accent(southsplit)'] == 'Midland'][:100]
+    south_in = df[df['accent(southsplit)'] == 'Inland South']
+    south_low = df[df['accent(southsplit)'] == 'Lowland South']
+    midland = df[df['accent(southsplit)'] == 'Midland']
     north_cent = df[df['accent(southsplit)'] == 'North Central']
-    north = df[df['accent(southsplit)'] == 'North'][:100]
-    west = df[df['accent(southsplit)'] == 'West'][:100]
+    north = df[df['accent(southsplit)'] == 'North']
+    west = df[df['accent(southsplit)'] == 'West']
 
     # return south_in.append(south_low).append(midland).append(north)
     return west.append(north).append(midland).append(south_low).append(south_in)
@@ -40,7 +40,7 @@ def filter_df(df):
 
     # df_new['birth_place'].apply(lambda col: col['birth_place'] = col['birth_place'].str[-1])
 
-def split_people(df,test_size=0.15):
+def split_people(df,test_size=0.1):
     '''
     Create train test split of DataFrame
     :param df (DataFrame): Pandas DataFrame of audio files to be split
