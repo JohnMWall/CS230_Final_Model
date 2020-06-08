@@ -40,7 +40,7 @@ def filter_df(df):
 
     # df_new['birth_place'].apply(lambda col: col['birth_place'] = col['birth_place'].str[-1])
 
-def split_people(df,test_size=0.15):
+def split_people(df,test_size=0.1):
     '''
     Create train test split of DataFrame
     :param df (DataFrame): Pandas DataFrame of audio files to be split
