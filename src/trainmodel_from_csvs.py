@@ -5,7 +5,8 @@ sys.path.append('../dialectdetect-master/src>')
 import getsplit
 
 
-from tensorflow.keras import utils
+from tensorflow import keras 
+from keras import utils
 import accuracy
 import multiprocessing
 import librosa
@@ -14,18 +15,19 @@ from sklearn.model_selection import train_test_split
 from sklearn.utils import shuffle
 from sklearn.preprocessing import MinMaxScaler
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout, Flatten
-from tensorflow.keras.layers import MaxPool2D, Conv2D
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.callbacks import EarlyStopping, TensorBoard
+from keras.metrics import Precision, Recall
+from keras.models import Sequential
+from keras.layers import Dense, Dropout, Flatten, GlobalAveragePooling2D
+from keras.layers import MaxPool2D, Conv2D
+from keras.preprocessing.image import ImageDataGenerator
+from keras.callbacks import EarlyStopping, TensorBoard
 
 DEBUG = True
 SILENCE_THRESHOLD = .01
 RATE = 24000
 N_MFCC = 13
-COL_SIZE = 200
-EPOCHS = 100 #10 #35#250
+COL_SIZE = 50
+EPOCHS = 5 #10 #35#250
 
 def to_categorical(y):
     '''
@@ -139,7 +141,7 @@ def create_segmented_mfccs(X_train):
     return(segmented_mfccs)
 
 
-def train_model(X_train,y_train,X_validation,y_validation, batch_size=32): #32 #64
+def train_model(X_train,y_train,X_validation,y_validation, batch_size=128): #32 #64
     '''
     Trains 2D convolutional neural network
     :param X_train: Numpy array of mfccs
@@ -163,15 +165,15 @@ def train_model(X_train,y_train,X_validation,y_validation, batch_size=32): #32 #
     # X_validation = X_validation.reshape(X_validation.shape[0], rows, cols, 1 )
 
 
-    # print('X_train shape:', X_train.shape)
+    print('X_train shape:', X_train.shape)
     print(X_train.shape[0], 'training samples')
 
-    # print('X_validation shape:', X_validation.shape)
+    print('X_validation shape:', X_validation.shape)
     print(X_validation.shape[0], 'validation samples')
 
     model = Sequential()
 
-    model.add(Conv2D(32, kernel_size=(1,50), activation='relu',
+    model.add(Conv2D(32, kernel_size=(3,3), activation='relu',
                      data_format="channels_last",
                      input_shape=input_shape))
 
@@ -193,7 +195,7 @@ def train_model(X_train,y_train,X_validation,y_validation, batch_size=32): #32 #
     es = EarlyStopping(monitor='accuracy', min_delta=.005, patience=10, verbose=1, mode='auto')
 
     # Creates log file for graphical interpretation using TensorBoard
-    tb = TensorBoard(log_dir='../logs', histogram_freq=0, batch_size=32, write_graph=True, write_grads=True,
+    tb = TensorBoard(log_dir='../logs', histogram_freq=0, batch_size=batch_size, write_graph=True, write_grads=True,
                      write_images=True, embeddings_freq=0, embeddings_layer_names=None,
                      embeddings_metadata=None)
 
@@ -275,6 +277,11 @@ if __name__ == '__main__':
     X_train = pool.map(get_file, X_train)
     X_test = pool.map(get_file, X_test)
 
+    for i in X_train:
+        librosa.util.normalize(i)
+    for i in X_test:
+        librosa.util.normalize(i)
+
     # Create segments from MFCCs
     X_train, y_train = make_segments(X_train, y_train)
     X_validation, y_validation = make_segments(X_test, y_test)
@@ -284,7 +291,7 @@ if __name__ == '__main__':
 
     # Randomize training segments
     # X_train, _, y_train, _ = train_test_split(X_train, y_train, test_size=0.0)
-    X_train, y_train = shuffle(X_train, y_train)
+    X_train, y_train = shuffle(X_train, y_train, random_state=230)
 
     # print("y_train shape:", len(y_train[0]))
     # print("y_train:", y_train[0])

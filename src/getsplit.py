@@ -12,15 +12,7 @@ def filter_df(df):
     :return (DataFrame): Filtered DataFrame
     '''
 
-    # arabic = df[df.native_language.str.contains('arabic')][:25]
-    # spanish = df[df.native_language.str.contains('spanish')][:25]
-    # mandarin = df[df.native_language.str.contains('mandarin')][:25]
-    # english = df[df.native_language.str.contains('english')][:25]
-    # return english
-
-    # mandarin = mandarin[mandarin.length_of_english_residence < 10][:25]
-    # arabic = arabic[arabic.length_of_english_residence < 10][:25]
-
+    # Leaving this here as reference for future use
     # usa = df[df.english_residence.str.contains("['usa']", regex=False)][:50]
     # can = df[df.english_residence.str.contains("['canada']", regex=False)][:50]
     # uk = df[df.english_residence.str.contains("['uk']", regex=False)][:50]
@@ -28,16 +20,18 @@ def filter_df(df):
     # ireland = df[df.english_residence.str.contains("['ireland']", regex=False)][:50]
     # uk_usa = df[df.english_residence.str.contains("['uk','usa']", regex=False)][:50]
 
-    canada = df[df.accent == 'Canada']
-    new_eng = df[df.accent == 'New England']
-    nyc = df[df.accent == 'New York City']
-    south = df[df.accent == 'South'][:100]
-    midland = df[df.accent == 'Midland'][:100]
-    north_cent = df[df.accent == 'North Central']
-    north = df[df.accent == 'North'][:100]
-    west = df[df.accent == 'West'][:60]
+    # Every time you want to change to use a new col, make sure to change 'accent(southsplit)' 
+    # to the name of the new column
+    new_eng = df[df['accent(southsplit)'] == 'New England']
+    nyc = df[df['accent(southsplit)'] == 'New York City']
+    south_in = df[df['accent(southsplit)'] == 'Inland South'][:100]
+    south_low = df[df['accent(southsplit)'] == 'Lowland South'][:100]
+    midland = df[df['accent(southsplit)'] == 'Midland'][:100]
+    north_cent = df[df['accent(southsplit)'] == 'North Central']
+    north = df[df['accent(southsplit)'] == 'North'][:100]
+    west = df[df['accent(southsplit)'] == 'West'][:60]
 
-    return south.append(midland).append(north)
+    return south_in.append(south_low).append(midland).append(north)
     # return df
 
 
@@ -54,7 +48,7 @@ def split_people(df,test_size=0.2):
     '''
 
 
-    return train_test_split(df['language_num'],df['accent'],test_size=test_size) # random_state = 1234
+    return train_test_split(df['ID'],df['accent(southsplit)'],test_size=test_size) # random_state = 1234
     # return train_test_split(df['language_num'],df['native_language'],test_size=test_size) # random_state = 1234
 
 
