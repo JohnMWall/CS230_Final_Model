@@ -27,7 +27,7 @@ SILENCE_THRESHOLD = .01
 RATE = 24000
 N_MFCC = 13
 COL_SIZE = 50
-EPOCHS = 5 #10 #35#250
+EPOCHS = 50 #10 #35#250
 
 def to_categorical(y):
     '''
