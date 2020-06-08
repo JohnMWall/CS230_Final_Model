@@ -29,17 +29,18 @@ def filter_df(df):
     midland = df[df['accent(southsplit)'] == 'Midland'][:100]
     north_cent = df[df['accent(southsplit)'] == 'North Central']
     north = df[df['accent(southsplit)'] == 'North'][:100]
-    west = df[df['accent(southsplit)'] == 'West'][:60]
+    west = df[df['accent(southsplit)'] == 'West'][:100]
 
     # return south_in.append(south_low).append(midland).append(north)
-    return df
+    return west.append(north).append(midland).append(south_low).append(south_in)
+    # return df
 
 
     # return usa.append(can).append(uk).append(australia).append(ireland).append(uk_usa)
 
     # df_new['birth_place'].apply(lambda col: col['birth_place'] = col['birth_place'].str[-1])
 
-def split_people(df,test_size=0.2):
+def split_people(df,test_size=0.15):
     '''
     Create train test split of DataFrame
     :param df (DataFrame): Pandas DataFrame of audio files to be split
@@ -48,7 +49,7 @@ def split_people(df,test_size=0.2):
     '''
 
 
-    return train_test_split(df['ID'],df['accent(southsplit)'],test_size=test_size) # random_state = 1234
+    return train_test_split(df['ID'],df['accent(southsplit)'],test_size=test_size, stratify=df['accent(southsplit)']) # random_state = 1234
     # return train_test_split(df['language_num'],df['native_language'],test_size=test_size) # random_state = 1234
 
 

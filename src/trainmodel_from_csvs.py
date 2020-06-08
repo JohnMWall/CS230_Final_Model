@@ -27,7 +27,7 @@ SILENCE_THRESHOLD = .01
 RATE = 24000
 N_MFCC = 13
 COL_SIZE = 100
-EPOCHS = 20 #10 #35#250
+EPOCHS = 100 #10 #35#250
 
 def to_categorical_v2(y_train, y_test):
     '''
@@ -151,14 +151,15 @@ def train_model(X_train,y_train,X_validation,y_validation, batch_size=64): #32 #
     model.add(MaxPool2D(pool_size=(2, 2)))
     model.add(Dropout(0.25))
 
-    model.add(Flatten())
+    # model.add(Flatten())
+    model.add(GlobalAveragePooling2D())
     model.add(Dense(128, activation='relu'))
-    model.add(Dropout(0.35))
+    model.add(Dropout(0.4))
 
     model.add(Dense(num_classes, activation='softmax'))
     model.compile(loss='categorical_crossentropy',
                   optimizer='adadelta',
-                  metrics=['accuracy'])
+                  metrics=['accuracy', Precision(), Recall()])
 
     # Stops training if accuracy does not change at least 0.005 over 10 epochs
     es = EarlyStopping(monitor='accuracy', min_delta=.005, patience=10, verbose=1, mode='auto')
