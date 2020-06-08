@@ -31,8 +31,8 @@ def filter_df(df):
     north = df[df['accent(southsplit)'] == 'North'][:100]
     west = df[df['accent(southsplit)'] == 'West'][:60]
 
-    return south_in.append(south_low).append(midland).append(north)
-    # return df
+    # return south_in.append(south_low).append(midland).append(north)
+    return df
 
 
     # return usa.append(can).append(uk).append(australia).append(ireland).append(uk_usa)

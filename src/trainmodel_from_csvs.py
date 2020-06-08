@@ -26,21 +26,8 @@ DEBUG = True
 SILENCE_THRESHOLD = .01
 RATE = 24000
 N_MFCC = 13
-COL_SIZE = 50
-EPOCHS = 50 #10 #35#250
-
-def to_categorical(y):
-    '''
-    Converts list of languages into a binary class matrix
-    :param y (list): list of languages
-    :return (numpy array): binary class matrix
-    '''
-    lang_dict = {}
-    print(set(y))
-    for index,language in enumerate(set(y)):
-        lang_dict[language] = index
-    y = list(map(lambda x: lang_dict[x],y))
-    return utils.to_categorical(y, len(lang_dict))
+COL_SIZE = 100
+EPOCHS = 20 #10 #35#250
 
 def to_categorical_v2(y_train, y_test):
     '''
@@ -56,26 +43,8 @@ def to_categorical_v2(y_train, y_test):
     y_test = list(map(lambda x: lang_dict[x],y_test))
     return utils.to_categorical(y_train, len(lang_dict)), utils.to_categorical(y_test, len(lang_dict))
 
-def get_wav(language_num):
-    '''
-    Load wav file from disk and down-samples to RATE
-    :param language_num (list): list of file names
-    :return (numpy array): Down-sampled wav file
-    '''
-
-    y, sr = librosa.load('../audio/{}.wav'.format(language_num))
-    return(librosa.core.resample(y=y,orig_sr=sr,target_sr=RATE, scale=True))
-
 def get_file(language_num):
     return np.loadtxt('../mfccs/{}.csv'.format(language_num), delimiter=',')
-
-def to_mfcc(wav):
-    '''
-    Converts wav file to Mel Frequency Ceptral Coefficients
-    :param wav (numpy array): Wav form
-    :return (2d numpy array: MFCC
-    '''
-    return(librosa.feature.mfcc(y=wav, sr=RATE, n_mfcc=N_MFCC))
 
 def remove_silence(wav, thresh=0.04, chunk=5000):
     '''
@@ -141,7 +110,7 @@ def create_segmented_mfccs(X_train):
     return(segmented_mfccs)
 
 
-def train_model(X_train,y_train,X_validation,y_validation, batch_size=128): #32 #64
+def train_model(X_train,y_train,X_validation,y_validation, batch_size=64): #32 #64
     '''
     Trains 2D convolutional neural network
     :param X_train: Numpy array of mfccs
@@ -238,6 +207,8 @@ if __name__ == '__main__':
     # print(sys.argv)
     file_name = sys.argv[1]
     model_filename = sys.argv[2]
+    COL_SIZE = int(sys.argv[3])
+    EPOCHS = int(sys.argv[4])
 
     # Load metadata
     df = pd.read_csv(file_name)
