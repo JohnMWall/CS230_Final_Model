@@ -22,18 +22,18 @@ def filter_df(df):
 
     # Every time you want to change to use a new col, make sure to change 'accent(southsplit)' 
     # to the name of the new column
-    new_eng = df[df['accent(southsplit)'] == 'New England']
-    nyc = df[df['accent(southsplit)'] == 'New York City']
-    south_in = df[df['accent(southsplit)'] == 'Inland South']
-    south_low = df[df['accent(southsplit)'] == 'Lowland South']
-    midland = df[df['accent(southsplit)'] == 'Midland']
-    north_cent = df[df['accent(southsplit)'] == 'North Central']
-    north = df[df['accent(southsplit)'] == 'North']
-    west = df[df['accent(southsplit)'] == 'West']
+    new_eng = df[df['accent(southsplit)'] == 'New England'][:60]
+    nyc = df[df['accent(southsplit)'] == 'New York City'][:60]
+    south_in = df[df['accent(southsplit)'] == 'Inland South'][:60]
+    south_low = df[df['accent(southsplit)'] == 'Lowland South'][:60]
+    midland = df[df['accent(southsplit)'] == 'Midland'][:60]
+    north_cent = df[df['accent(southsplit)'] == 'North Central'][:60]
+    north = df[df['accent(southsplit)'] == 'North'][:60]
+    west = df[df['accent(southsplit)'] == 'West'][:60]
 
     # return south_in.append(south_low).append(midland).append(north)
-    return west.append(north).append(midland).append(south_low).append(south_in)
-    # return df
+    # return west.append(north).append(midland).append(south_low).append(south_in)
+    return df
 
 
     # return usa.append(can).append(uk).append(australia).append(ireland).append(uk_usa)
