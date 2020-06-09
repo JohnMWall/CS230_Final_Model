@@ -39,6 +39,7 @@ def to_categorical_v2(y_train, y_test):
     print(set(y_train.append(y_test)))
     for index,language in enumerate(set(y_train.append(y_test))):
         lang_dict[language] = index
+        print(language, "is index ", index)
     y_train = list(map(lambda x: lang_dict[x],y_train))
     y_test = list(map(lambda x: lang_dict[x],y_test))
     return utils.to_categorical(y_train, len(lang_dict)), utils.to_categorical(y_test, len(lang_dict))

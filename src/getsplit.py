@@ -22,14 +22,14 @@ def filter_df(df):
 
     # Every time you want to change to use a new col, make sure to change 'accent(southsplit)' 
     # to the name of the new column
-    new_eng = df[df['accent(southsplit)'] == 'New England'][:60]
-    nyc = df[df['accent(southsplit)'] == 'New York City'][:60]
-    south_in = df[df['accent(southsplit)'] == 'Inland South'][:60]
-    south_low = df[df['accent(southsplit)'] == 'Lowland South'][:60]
-    midland = df[df['accent(southsplit)'] == 'Midland'][:60]
-    north_cent = df[df['accent(southsplit)'] == 'North Central'][:60]
-    north = df[df['accent(southsplit)'] == 'North'][:60]
-    west = df[df['accent(southsplit)'] == 'West'][:60]
+    new_eng = df[df['accent(southsplit)'] == 'New England'][:100]
+    nyc = df[df['accent(southsplit)'] == 'New York City'][:100]
+    south_in = df[df['accent(southsplit)'] == 'Inland South'][:100]
+    south_low = df[df['accent(southsplit)'] == 'Lowland South'][:100]
+    midland = df[df['accent(southsplit)'] == 'Midland'][:100]
+    north_cent = df[df['accent(southsplit)'] == 'North Central'][:100]
+    north = df[df['accent(southsplit)'] == 'North'][:100]
+    west = df[df['accent(southsplit)'] == 'West'][:100]
 
     return south_in.append(south_low).append(midland).append(north).append(new_eng).append(nyc).append(west).append(north_cent)
     # return west.append(north).append(midland).append(south_low).append(south_in)
@@ -48,7 +48,7 @@ def split_people(df,test_size=0.1):
     :return X_train, X_test, y_train, y_test (tuple): Xs are list of df['language_num'] and Ys are df['native_language']
     '''
 
-
+    # return train_test_split(df['ID'],df['accent(southsplit)'],test_size=test_size)
     return train_test_split(df['ID'],df['accent(southsplit)'],test_size=test_size, stratify=df['accent(southsplit)']) # random_state = 1234
     # return train_test_split(df['language_num'],df['native_language'],test_size=test_size) # random_state = 1234
 
