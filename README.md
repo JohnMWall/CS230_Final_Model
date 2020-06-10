@@ -1,6 +1,6 @@
 # CS230_Final_Model
 
-A deep learning model is developed which can predict the region in the United States a person is from based on spoken english accent
+A deep learning model is developed which can predict the regional American English accent a person has based on their spoken English.
 
 Overview:
 
@@ -46,18 +46,22 @@ Running Model:
 
 Note- Run all the python files as described below on the terminal
 
-Run getaudio.py to download audio files to the audio directory. All audio files listed in bio_metadata.csv will be downloaded. Use nativeenglish.csv for this model
-Command: python getaudio.py nativeenglish.csv
+Run getaudio.py to download audio files to the audio directory.
+Command: python DAREaudio.py
 
 To filter audio samples to feed into the CNN:
 Edit the filter_df method in getsplit.py
 This will filter audio files from the csv when calling trainmodel.py
 To make predictions on audio files:
 Run trainmodel.py to train the CNN
-Command: python trainmodel.py nativeenglish.csv milestonemodel
+Command: python trainmodel.py DARE_speaker_arthur.csv milestonemodel COL_SIZE EPOCHS
 
 Running trainmodel.py will save the trained model as milestonemodel.h5 in the model directory and output the results to the console.
 This script will also save a TensorBoard log file into the logs directory.
+
+When the script finishes, you should see a confusion matrix, as well as accuracy and micro F1 score printed out. Make sure that you check the indices of the classes when the program first runs, or the confusion matrix will not be interpretable.
+
+Warning: It is not recommended to run this on a local machine, as it is very power intensive and takes a long time.
 ####### To add/change performance metric calculations
 
 Open accuracy.py
