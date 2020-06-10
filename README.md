@@ -8,13 +8,13 @@ Using audio samples from [DARE] (https://dare.wisc.edu), we wanted to show that 
 
 Dependencies:
 
-Python 3.5 (https://www.python.org/download/releases/2.7/)
-Keras (https://keras.io/)
-Numpy (http://www.numpy.org/)
-BeautifulSoup (https://www.crummy.com/software/BeautifulSoup/)
-Pydub (https://github.com/jiaaro/pydub)
-Sklearn (http://scikit-learn.org/stable/)
-Librosa (http://librosa.github.io/librosa/)
+- Python 3.5 (https://www.python.org/download/releases/2.7/)
+- Keras (https://keras.io/)
+- Numpy (http://www.numpy.org/)
+- BeautifulSoup (https://www.crummy.com/software/BeautifulSoup/)
+- Pydub (https://github.com/jiaaro/pydub)
+- Sklearn (http://scikit-learn.org/stable/)
+- Librosa (http://librosa.github.io/librosa/)
 Data:
 
 We started with the data from the Dictionary of American Regional English, a collection of more than 1300 audio samples from people across the United States speaking the same English paragraph. The paragraph contains most of the consonants, vowels, and clusters of standard American English.
@@ -31,18 +31,24 @@ Challenges & Solutions:
 • Small dataset: MFCCs were sliced into smaller segments. These smaller segments were fed into the neural network where predictions were made. Using an ensembling method, a majority vote was taken to predict the native language class.
 
 Scraping Data:
-├── MetaDataScrape
-├── DARE_url_download.py
+- MetaDataScrape
+  - DARE_url_download.py
 
 Downloading audio:
-├── audioScrape
-├── DARE_audio.py
+- audioScrape
+  - DARE_audio.py
 
 Running Model:
-├── src
-├── accuracy.py ├── getsplit.py ├── trainmodel.py ├── models
-├── cnn_model138.h5 ├── logs
-├── events.out.tfevents.1506987325.ip-172-31-47-225 └── audio
+- src
+  - accuracy.py 
+  - getsplit.py 
+  - trainmodel_from_csvs.py
+- models
+  - cnn_model138.h5
+-logs
+  - events.out.tfevents.1506987325.ip-172-31-47-225 
+- audio
+- mfccs
 
 Note- Run all the python files as described below on the terminal
 
