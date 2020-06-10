@@ -1,10 +1,10 @@
 # CS230_Final_Model
 
-A deep learning model is developed which can predict the native country on the basis of the spoken english accent
+A deep learning model is developed which can predict the region in the United States a person is from based on spoken english accent
 
 Overview:
 
-Using audio samples from [The Speech Accent Archive] (http://accent.gmu.edu/), we wanted to show that a deep neural network can classify the countries of english residence of a speaker.
+Using audio samples from [DARE] (https://dare.wisc.edu), we wanted to show that a deep neural network can classify accents based on region of American English.
 
 Dependencies:
 
@@ -17,7 +17,7 @@ Sklearn (http://scikit-learn.org/stable/)
 Librosa (http://librosa.github.io/librosa/)
 Data:
 
-We started with the data from The Speech Accent Archive, a collection of more than 2400 audio samples from people for over 177 countries speaking the same English paragraph. The paragraph contains most of the consonants, vowels, and clusters of standard American English.
+We started with the data from the Dictionary of American Regional English, a collection of more than 1300 audio samples from people across the United States speaking the same English paragraph. The paragraph contains most of the consonants, vowels, and clusters of standard American English.
 
 Model:
 
@@ -30,9 +30,17 @@ Challenges & Solutions:
 
 • Small dataset: MFCCs were sliced into smaller segments. These smaller segments were fed into the neural network where predictions were made. Using an ensembling method, a majority vote was taken to predict the native language class.
 
+Scraping Data:
+├── MetaDataScrape
+├── DARE_url_download.py
+
+Downloading audio:
+├── audioScrape
+├── DARE_audio.py
+
 Running Model:
 ├── src
-├── accuracy.py ├── fromwebsite.py ├── getaudio.py ├── getsplit.py ├── trainmodel.py ├── models
+├── accuracy.py ├── getsplit.py ├── trainmodel.py ├── models
 ├── cnn_model138.h5 ├── logs
 ├── events.out.tfevents.1506987325.ip-172-31-47-225 └── audio
 
@@ -57,5 +65,3 @@ There you should see several functions such as confusion matrix, accuracy, and F
 Make the changes that you'd like, then make sure to add a line invoking the function in trainmodel.py
 Note: Micro-F1 takes the F1 score as the dot product over all test classes as share_of_class_in_test_set * F1_score divided by the total number of non-zero test classes. This is because for certain distributions, classes will be included in the confusion matrix even though they don't appear in the test class, so needlessly detract from the F1 score.
 Performance
-
-With the inconsistent labels and smaller set of 645 speakers, the model was able to predict the correct country of english residence at around 73% accuracy when given a test sample from the 645 native english speakers.
