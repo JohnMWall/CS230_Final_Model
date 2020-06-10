@@ -26,10 +26,9 @@ Model:
 • The MFCC was fed into a 2-Dimensional Convolutional Neural Network (CNN) to predict the native language class.
 
 Challenges & Solutions:
+• Computationally expensive: Uses only native english origin for a smaller subset of 645 speakers
 
-• Computationally expensive: Massive data files required significant work to preprocess - if you want to process the entire dataset, expect to spend a day doing it!
-
-• The dataset is hand-labelled, which required consulting Aschmann's map of American English dialects. Some error may be introduced here due to potential mismatch between map and data.
+• Small dataset: MFCCs were sliced into smaller segments. These smaller segments were fed into the neural network where predictions were made. Using an ensembling method, a majority vote was taken to predict the native language class.
 
 Scraping Data:
 - MetaDataScrape
@@ -53,16 +52,19 @@ Running Model:
 
 Note- Run all the python files as described below on the terminal
 
-Run getaudio.py to download audio files to the audio directory.
-- Command: python DAREaudio.py
+Run DARE_url_download.py to dowload the requisite metadate used to dowload the audio files. Outputs the metadata to a CSV.
+Command: DARE_url_download.py <speakersMetadataName>.csv
+
+Run DAREaudio.py to download audio files to the audioDARE directory. Must have an input CSV (speaker metadata) and output CSV.
+The output CSV will include the links to dowload.
+Command: python DAREaudio.py <speakersMetadataName>.csv <metadataOutputName>.csv
 
 To filter audio samples to feed into the CNN:
-- Edit the filter_df method in getsplit.py
-- This will filter audio files from the csv when calling trainmodel.py
-
+Edit the filter_df method in getsplit.py
+This will filter audio files from the csv when calling trainmodel.py
 To make predictions on audio files:
-- Run trainmodel.py to train the CNN
-  - Command: python trainmodel.py DARE_speaker_arthur.csv milestonemodel COL_SIZE EPOCHS
+Run trainmodel.py to train the CNN
+Command: python trainmodel.py DARE_speaker_arthur.csv milestonemodel COL_SIZE EPOCHS
 
 Running trainmodel.py will save the trained model as milestonemodel.h5 in the model directory and output the results to the console.
 This script will also save a TensorBoard log file into the logs directory.
@@ -70,12 +72,10 @@ This script will also save a TensorBoard log file into the logs directory.
 When the script finishes, you should see a confusion matrix, as well as accuracy and micro F1 score printed out. Make sure that you check the indices of the classes when the program first runs, or the confusion matrix will not be interpretable.
 
 Warning: It is not recommended to run this on a local machine, as it is very power intensive and takes a long time.
-
 ####### To add/change performance metric calculations
 
 Open accuracy.py
 There you should see several functions such as confusion matrix, accuracy, and F1 score
-Make the changes that you'd like, then make sure to add a line invoking the function in trainmodel.py after the model runs.
-
+Make the changes that you'd like, then make sure to add a line invoking the function in trainmodel.py
 Note: Micro-F1 takes the F1 score as the dot product over all test classes as share_of_class_in_test_set * F1_score divided by the total number of non-zero test classes. This is because for certain distributions, classes will be included in the confusion matrix even though they don't appear in the test class, so needlessly detract from the F1 score.
 Performance
